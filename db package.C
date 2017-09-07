@@ -2,14 +2,14 @@ used,
 
 the db package
 
-var dbs =
+var dbs ={
 
- {
+ 
 
 
-  asks_ids:{ place :{ is_place { latLng :{ lng : is_lng, lat : is_lat   , _place :is is  _place , place_:is_place     ,  _:{iscurrenr},low_id:{ is_low_id   ,
-   checkers_ids_: is_checkers_id , reencrypted_asks_ids: is_reencrypted_asks_ids ,asks_track : is_track_integer ,
-   asks_level_ : is_asks_level_integer, asks_letter__: is_asks_     is_asks_letter Letter integer ,  ,
+  asks_ids:{ place :{ is_place { latLng :{ lng : is_lng, lat : is_lat   , _place : is  _place , place_:is_place     ,  is  current_:{iscurrenr},low_id:{ is_low_id   ,
+   checkers_ids_: is_checkers_id , reencrypted_asks_ids: is_reencrypted_asks_ids , asks_track : is_track_integer ,
+   asks_level_ : is_asks_level_integer, asks_letter__: is_asks_letter   integer ,  
 
 
 
@@ -17,19 +17,20 @@ var dbs =
 
  ledgers : {
 
-
+,
 
 
 wallets_ledger : {
 
  wallets_id : reencryption_asks_ids
-,crypteds :{ at_: { at_integer:{    of_ : {reencrypted  integer :  reencrypted_of_: { needed_integer: { needed_of_: { crypteds_integer:{  : {  : {
+,crypteds :{ 
+at_: { at_integer:{    of_ :{reencrypted integer : reencrypted_of_:{  needed_integer: { needed_of_: { crypteds_integer:{ :{ :{ 
 
-decrypted__ bunch of o ab and one
-   ,cryptos_used : { to_crypted__: cryptos_used_id_to_crypted ,
-   to_crypted_minus: { to_crypted_minus_integer :  cryptos_used_id_to_crypted_minus  ,, ,
+decrypted__ bunch of o ab and one,
+   ,cryptos_used :{ to_crypted__: cryptos_used_id_to_crypted ,
+   to_crypted_minus:{ to_crypted_minus_integer : cryptos_used_id_to_crypted_minus  ,, 
 
-   decryption_ask_keys_: {new String  sending_backs_keys) :{
+   decryption_ask_keys_: { new String  sending_backs_keys) :{
    reencrypted : reencrypted_binary_buffer , keys_for_the_crypted_not_   the_reencrypted :      } } },  , instance_of_checkers_used_guide  wallets_id that has checkers id       :      , lowdollars :{} },
 
  } ,
