@@ -6,39 +6,46 @@ var dbs =
 
  {
 
-
-  asks_ids:{ place :{ is_place { latLng :{ lng : is_lng, lat : is_lat   , _place :is is  _place , place_:is_place     ,  _:{iscurrenr},low_id:{ is_low_id   ,
-   checkers_ids_: is_checkers_id , reencrypted_asks_ids: is_reencrypted_asks_ids ,asks_track : is_track_integer ,
-   asks_level_ : is_asks_level_integer, asks_letter__: is_asks_     is_asks_letter Letter integer ,  ,
-((
-
+asks_ids
+  asks_ids:{ place :{ is_place { latLng :{ lng : is_lng, lat : is_lat   , _place : is   _place , place_:is_place_ ,  is   curent_:{iscurrenr},low_id:{ is_low_id   ,
+   checkers_ids_: is_checkers_id , reencrypted_asks_ids: is_reencrypted_   ids ,asks_track : is_track_integer ,
+   asks_level_ : is_asks_level_integer, asks_letter__: is_asks_letter   ab_integer ,  
 
 
+ asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : is_current_ ,low_id:{ is_low_id   ,
+   checkers_ids_:  checkers_id , reencrypted_asks_ids: reencrypted_asks_ids , asks_track_ : asks_track_integer ,
+   asks_level_ : asks_level_integer, asks_letter_ : asks_letter_integer } ,  
 
- ledgers : {
+ 
+ 
+ ledgers :{ 
+ 
+ 
+wallets_ledger:{wallets_id:reencryption_asks_ids,
+ 
+    
+ _   at_  :{},
+, crypteds :{},  
+:  },  }, asks is  needed_of_integer_
+:  : is _is_is wallets_id reencrypted:reencrypted :reencryption  needed_integer  crypteds  
+   
+ at_at_:{     at_at_integer ) :{_of_:{     of_at_integer) :{              
+ 
+  
+ at_crypteds:{     ( at_integer) :{_of_:{      ( reencrypted_integer  :{ reencrypted_of_ :{     needed_integer :{ needed_of_: {     crypteds_integer:{ :{ :{ 
+, crypteds
+: { decrypted__:{bunch_of_o_and_one,
+   cryptos_used :{ new String   to_crypted__ :{cryptos_used_id_to_crypted ,    }, 
+   to_crypted_minus: {    to_crypted_minus_integer :{__:{ cryptos_used_id_to_crypted_minus ,     },  
 
-
-
-
-wallets_ledger : {
-
- wallets_id : reencryption_asks_ids
-,crypteds :{
-
-     at_: { at_integer:{ _of_ : {reencrypted_integer :  reencrypted_of_: { needed_integer: { needed_of_: { crypteds_integer:{  : {  : {
-crypteds
-decrypted__  _bunch_of_o_ab_and_one
-   ,cryptos_used : { to_crypted__: cryptos_used_id_to_crypted ,
-   to_crypted_minus: { to_crypted_minus_integer :__  cryptos_used_id_to_crypted_minus  ,, ,
-
-   decryption_ask_keys_ : {new String  sending_backs_keys) :{
-   reencrypted__ : reencrypted_binary_buffer , keys_for_the_crypted_not_   the_reencrypted__ :      } } },  , instance_of_wallets_id_that_has_checkers_id__     :      , lowdollars__:{} },
-
- } ,
+   decryption_ask_keys_:{ new String    sending_backs_keys) :{
+   reencrypted__:    reencrypted_binary_buffer , keys_for_the_crypted_not_the_reencrypted__ } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
+ 
+   ,,  , is
  checkers_ledger : {
 ,.
- asks_checks:{ isplain_  : the_things_that_is ,
-   instanceofdb : checks_instance_     of_dbs_integer:   __ :  instance_of_dbs  ,
+ asks_checks:{ isplain__ : the_things_that_is ,
+   instanceofdb :     checks_instance_     of_dbs_integer:   __ :     instance_of_dbs  ,
    checks_ids__ : asks_ids ,
    checks__: send_backs_sorted },,
 
