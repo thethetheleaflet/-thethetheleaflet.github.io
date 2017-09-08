@@ -1,4 +1,4 @@
-   methods.prototype.  Object  .prototype .is_    ; ,  ,, methods
+ var methods   ;methods.prototype.  Object  .prototype .is_     ,  ,, methods
 
  . this_is
 = for
@@ -15,12 +15,12 @@ for( ; methodes . name . toString ( ) .slice ( 0 , 2 ) != "is_" ; ) {
 
 
      ,
-
+ 
 
 
 
 , methods
-. this_could_be    for ( ; that != 0 ; ) {
+. this_could_be  : {   for ( ; that != 0 ; ) {
 
 
 
@@ -30,13 +30,13 @@ for( ; methodes . name . toString ( ) .slice ( 0 , 2 ) != "is_" ; ) {
 
 
 
-for (
+for (     
 
 
  var methodes in this ) {
 for (
 
-
+      
  methodes .   name     . toString( ).slice ( 0 , 2 ) != "is_" ) {
 for ( ; methodes. value = 0 ; ) {
 
@@ -48,31 +48,31 @@ for ( ; methodes. value = 0 ; ) {
 
 , methods. is_asks_ids :{
 objects : typeof that === 'object'
-, prototypeof_asks_ids:,.    . prototype.isPrototypeOf ( that )
-,:   (that) ,    }
+, prototypeof_asks_ids:asks_ids . prototype.isPrototypeOf ( that )
+,        : that.  = , ()   } , 
 , methods.is_asks_level_integer:{
-'="' ,positive_integer:    . isInteger( that )
-, over_minus_one:that >
-, under_  :that  =  ,  :    (that) ,  }
-.. is _
+ , positive_integer:    . isInteger( that )
+, over_minus_one := that > 
+, under_  :that   ,  :    (that) ,  }
+.. is _  '' "   '="'}(
 , methods.is_at_integer :{
-, '="'
+, 
 ,positive_integer:      .isInteger( that )
 , under_crypteds_integer:      =
-, over_minus_  :that >
+, over_minus_  :that >  
 ,    :( that   . >   }
 
 , methods.is_binary_buffer:{
- string: typeof that === 'string' )
+ string: typeof that === 'string' 
 , string_of_one_and_o:
-'="' for ( that_ = 0;that_  ="' that . length;that_++ ) {
+'="  ' for ( that_ = 0;that_      that . length;that_++ ) {
  for ( ; that[that_ ] = 0 ; ) {
 
- _that_ = *
- }
- _that_=   that [that_ ] ; }             }'="'  ;
-
-, :
+ _that_ = 
+ }   
+ _that_= * that [that_ ] ;   }  =  ')  ;
+="'}  
+, :"'
 '="', :( '="'  }
 , methods.is_checkers_ids :{
 , asks_ids_of_package_asks: is_asks_ids
