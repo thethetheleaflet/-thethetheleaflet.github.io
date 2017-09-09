@@ -1,11 +1,11 @@
- var methods   ;methods.prototype.  Object  .prototype .is_     ,  ,, methods
+ var methods ={  ;methods.prototype.  Object  .prototype .is_     ,  ,, methods
 
  . this_is
 = for
 
  ( var methodes in this ) {
 for( ; methodes . name . toString ( ) .slice ( 0 , 2 ) != "is_" ; ) {
- this . is_ = * methodes ;
+ this . is_ =   * methodes ;
 
 
 } }
@@ -49,42 +49,42 @@ for ( ; methodes. value = 0 ; ) {
 , methods. is_asks_ids :{
 objects : typeof that === 'object'
 , prototypeof_asks_ids:asks_ids . prototype.isPrototypeOf ( that )
-,        : that.  = , ()   } , 
+,        : that.childElementChild   = , ()   } , 
 , methods.is_asks_level_integer:{
  , positive_integer:    . isInteger( that )
-, over_minus_one := that > 
-, under_  :that   ,  :    (that) ,  }
-.. is _  '' "   '="'}(
+, over_minus_one : that > 
+, under_     :that   ,  :    (that) ,  }
+.. is _  '' " =  '="'}(
 , methods.is_at_integer :{
 , 
 ,positive_integer:      .isInteger( that )
-, under_crypteds_integer:      =
-, over_minus_  :that >  
-,    :( that   . >   }
+, under_crypteds_integer:      >=
+, over_minus_  : that >  
+,    :( that      .    }
 
 , methods.is_binary_buffer:{
  string: typeof that === 'string' 
 , string_of_one_and_o:
-'="  ' for ( that_ = 0;that_      that . length;that_++ ) {
+     (' for ( that_ = 0;that_ that . length     ;that_++ ) {
  for ( ; that[that_ ] = 0 ; ) {
 
- _that_ = 
+ _that_ =   _that_:  that_
  }   
- _that_= * that [that_ ] ;   }  =  ')  ;
-="'}  
-, :"'
-'="', :( '="'  }
+ _that_= * that [that_ ] ;      _that_ : } =  ') ;
+="'}  '="
+, "'_
+'="',  '="'  }
 , methods.is_checkers_ids :{
 , asks_ids_of_package_asks: is_asks_ids
 
-, :(that  }
+, :        (that )   }
 , methods.is_coded:{
-{jshint_:  };( '="') ,   ,
+jshint_:   (    ,   ,
 
-(,,); =, };}}
+   { ,,); =, };};}}'="'constructor
 , methods.is_crypteds:{
-,instance_of_wallets:that.    .wallets_ledger.    .constructor
-, : ..   that);,  }
+,instance_of_wallets:  . that   .wallets_ledger. .
+, : .. (  that);,  }
 , methods.is_crypteds_integer:{
 , over_minus_one: that >
 ,  :    .. (that) ,   }
@@ -104,24 +104,24 @@ objects : typeof that === 'object'
 ,. ();,1,:{ :that>1}
 
 , methods. is_mean_ask_integer:{
-,.);,'../ ();,   ,:>1  }
-,,methods.is_needed_integer: {
-  (  );,   ,:>  1}
+, ;  . )  ,   . isInteger (  that  ) ,  :   >  1  }
+,,methods.is_needed_integer: {   )
+ . (  ) ;   .isInteger (    that  ,  :   >  1};
 , methods.is_place: {
-  ();,   ,, :();,   ,:'="'    .}
-,.
+  (  )  . isPrototypeOf   ,   : , ;, }
+,     ,  ,    )
 , methods.is_plain: {
-  ,that,{:( that);,  }; }
+  ,that,:'="',{:  ;    ( that);,  }; }
 ,methods.is_random_id: {
 , :1 that};}
-,methods.is_rewards_integer:{,.
-,:that >1:that { }();,
+,methods.is_rewards_integer:{, 
+,:that >   1: { } . (that);,
 , methods. is_the_checking_package_and_coded_tasks:{
-'="');,1,:that,,.}
+'="'  ,1,:that,, . }
 , methods.is_the_db_object:{
 :that,:that .,.}
 , methods.is_the_sending_package_and_coded_tasks:{
-,:that.,that '="''="' ,.}
+,:that.,that '="''="' ,.};,/'
 1
 
 
@@ -132,7 +132,7 @@ objects : typeof that === 'object'
 
 
 
-formats =       {
+formats = {
 
 
  ledgers : {
