@@ -19,33 +19,33 @@ var dbs =
  
  
  ledgers :{ 
- ()
  
-wallets_ledger:{wallets_id:reencryption_asks_ids,
-ab_integer_id is_reencrypted_ asks_ids      : reencryption_asks_ids_   _is_is, 
- at   
-    _at_ , 
-, crypteds ,  
+ 
+wallets_ledger:{wallets_id     :reencryption_asks_ids,
+ab_integer_id is_reencrypted_ asks_ids      : reencryption_asks_ids_   , 
+     
+ at_at , 
+, crypteds ,  ()
 :   {}} }, asks is  needed_of_integer_
-: :{} :{ is  wallets_id reencrypted:reencrypted :reencrypted  needed_integer  crypteds ) 
+: :{} :{ is  wallets_id reencrypted:reencrypted :reencrypted  needed  integer  crypteds ) 
    
- at_at_:{      ( at_at_integer ) :{_of_:{     ( of_at_integer) :{              
+ at_at_:{  Number ( at_at_integer ) :{_of_:{     ( of_at_integer) :{              
  
   
- at_crypteds:{     ( at_integer) :{_of_:{      ( reencrypted_integer) :{ reencrypted_of_ :{     ( needed_integer ) :{ needed_of_: {     crypteds_integer ( ) :{ :{ :{ 
+ at_crypteds:{     ( at_integer) :{_of_:{      ( reencrypted_integer) :{ reencrypted_of_ :{     ( needed_integer ) :{ needed_of_: {     ( crypteds_integer ) :{ :{ :{ 
 , crypteds :{ 
-:{ decrypted__:      ( bunch_of_o_and_one ),  
-   cryptos_used :{ new String   to_crypted__ :{cryptos_used_id_to_crypted ,      }, 
-   to_crypted_minus:{         ( to_crypted_minus_integer ) :{__:{ cryptos_used_id_to_crypted_minus ,     },  
+ decrypted__: new    ( bunch_of_o_and_one ),  
+   cryptos_used :{  String   to_crypted__ :{cryptos_used_id_to_crypted ,   crypted    }, 
+   to_crypted_minus:{         ( to_crypted_minus_integer ) :{__:{ cryptos_used_id_to_crypted_minus ,  _is_     },  
 
    decryption_ask_keys_:{ new String ( sending_backs_keys) :{  
-   reencrypted__:   ( reencrypted_binary_buffer ) , keys_for_the_crypted_not_the_reencrypted__ :   } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
+   reencrypted__:       ( reencrypted_binary_buffer ) , keys_for_the_crypted_not_the_reencrypted__ :   } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
  
-   ,,    
- checkers_ledger :{ (: (): , ( : ) : '="'}( '="' ,
-,.   
+,. (:  ,,  _asks_id_ :{ ()
+ checkers_ledger :{  (): , ( : ) : '="'}( '="' ,
+   
  checks_asks  :{ isplain__ : the_things_that_is ,   
-   instanceofdb : {    ( checks_instance_of_dbs_integer ) :{ __:{    instance_of_dbs } } },
+   instanceofdb : {    ( checks_instance_of_dbs_integer ) :{ __:{       _instance_of_dbs } } },id_ _asks_
    checks_ids__ : asks_ids ,   
    checks__: send_backs_sorted },    
 
@@ -53,45 +53,45 @@ ab_integer_id is_reencrypted_ asks_ids      : reencryption_asks_ids_   _is_is,
 constancy_ledger :{ 
 
 constancy_asks_id_ : asks_ids ,    
-co}stancy_checks_ : send_backs_sorted ,  
+constancy_  checks_ : send_backs_sorted ,  
 unconstancy_issue__ : issue , 
-constancy_asks:{ isplain__: the_things_that_is , instanceofdbs:{   (    _asks _integer ) :{ __ :{ instance_of_dbs } } } },
+constancy_asks:{ isplain__: the_things_that_is , instanceofdbs:{   (constancy_asks_id_   constancy_asks    _integer ) :{ __ :{     instance_of_dbs } } } },
 
 rewards_asks_ledger : { rewards_asks_id_ : asks_ids , checkers__ : checkers_ids , rewards_asked__ : checker_asked_rewards_integer },
-mean_a,.ed_rewards_} :{mean_ask_id_ : asks_ids , :{mean_asked_rewards__: mean_asked_rewards_integer } } },
+mean_      _rewards_ :{ mean_ask_id_ : asks_ids , mean_asked_rewards__: mean_asked_rewards_integer } } },
 
 
-'="'
+()'="' } 
  used_guides:{
-checkers_used_guide : {	checkers_used:{     ,checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
+checkers_used_guide : {	checkers_used:{   :{  ,checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
 wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_vresion , needs_:{} , tasks:{} },
 cryptos_used_guide : { cryptos_used: { cryptos_used_ids__:__used_     , needs_:{} , tasks_ :{} },
-d,s _used_guide : { db_used: { dbs_used_ids__: __used_ ,_used_:__used_version } , needs_:{}, tasks_ :{} },
-datas_udsed_guide : { datas_used: {} ,needs: {} , uis :{ui_used_id __, ui_used_version __ } } ,
+d,s _used_guide : { db_used: { dbs_used_ids__: __used_ ,_used_  :__used_version } , needs_:{}, tasks_ :{} },
+datas_udsed_guide : { datas_used: {} ,needs: {} , uis :{ui_used_id , ui_used_version  } } ,
 
 
 guides
 :{
-  _guide : { db_package_:{ the_db_object } ,tasks_:{} },
+       _guide : { db_package_:{ the_db_object } ,tasks_:{} },__
 checking_guide : { checking_package_:{ the_checking_package_and_coded_tasks } , tasks_: { } },
- sendin_guide : {    e_ding _package_:{         _package_and_coded_tasks } , tasks_:{ } },
+ sendin  _guide : {      sendin _package_:{         _package_and_coded_tasks } , tasks_:{ } },
  limits_guide : { needs_:{ } , limits_:{ } },
-rewards_guide : { needs_:{ } ,tasks_:{ } }}},},
+rewards_guide : { needs_:{ } ,tasks_:{ } }}},}, __
 
 
  checking_package
+()
 
-
-send_backs_sorted
- :{ asks_ids},asks_level_checks
-,levels:{
- asks_level_  } _send_backs_level_   }   ,   approval   , send_backs_sorted  integer } ,
- asks_level_  } , _send_backs_  level_sorted
+send_backs_sorted  
+ :{ asks_ids ,asks_level_checks  }
+,levels:{  
+ asks_level_   _send_backs_level_      ,   approval   , send_backs_sorted  integer } ,
+} asks_level_   , _send_backs_level_sorted  
 ,level_   level__ send_backs_sorted
-asks_level_      sending_backs   }   ,level_  level_ _send_backs_sorted
+asks_level_      sending_backs      ,level_  level_ _send_backs_sorted
 ,,level__send_backs_sorted
-
- } } }
+}}
+ } } }}
 
 
 ,. asking: {
@@ -102,31 +102,31 @@ asks_level_      sending_backs   }   ,level_  level_ _send_backs_sorted
 
 
 
-   prompted  is = ' <button name="',(  .name.constructor  ) ,'"    ="',(  methods.prompt_  ,'" id="',(  this.name.constructor '"   ="' ) , '" > </button>'  .(  ) ;
-  };
+   prompted_  is = ' <button name="   (   .name.constructor)   "    =" ( methods.prompt_  ) " id=" ( this.name.constructor )   "   =" .(',''     " > </button>'     ;
+  }; button ,' ', ', ,' ,'(
 
-  for ( var instance_of_ of instance_of__ ) {
+  for ( var instance_of_ of instance_of__ ) {      
 
-  for ( ; instance_of_ . name .   ( -  1 ) = "_" ; ) {
+  for ( ; instance_of_ . name .       ( -  1  ) = "_" ; ) {
 
-  prompted = + [ ' <p> '
+  prompted = + [ ' <p> '  
 
 ,   ' <div >'
 
-      ,(  instance_of_. name. constructor  );,
+      ,       (  instance_of_. name. constructor ) ; , 
 
 
-, ' </div> ' ,
-, '=" ' <div >
+, ' </div> ' 
+, ' <div >' 
 
- ,(  instance_of_  )
+ ,   (   instance_of_  ) 
 
 
 , ' </div> '
 
-,   ' <input type="radio"    =" "   > </p> ' ] .  ( ''); };
+,   ' <input type="radio"    ="   " > </p> ' ] .     ( ''); };
 
-for ( ; instance_of_ . name .   ( -  1 ) = "__" ; ) {
+for ( ; instance_of_ . name .  ,=" ( -1     ) = "__" ;){ 
 
 prompted = + [ ' <p> '
 ,(   instance_of_. name. constructor  ) ,
