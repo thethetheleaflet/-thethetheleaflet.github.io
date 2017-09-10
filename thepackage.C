@@ -7,36 +7,36 @@ var dbs =
  {
 
 
-  asks_ids:{ place :{ is_place { latLng :{ lng : is_lng, lat : is_lat   } , _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
-   checkers_ids_: is_checkers_id , :    ids ,asks_track : is_track_integer ,
-   asks_level_ is : is_asks_level _integer, asks_letter__: is_asks_letter ,  
+  asks_ids:{ place :{ is_place { latLng :{ lng : is_lng, lat : is_lat } , _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
+   checkers_ids_: is_ , : ids ,asks_track : is_track_integer ,
+   asks_level : is_asks_level _integer, asks_letter__: is_asks_letter ,  
 
 
  asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
-   checkers_ids_:  , reencrypted_asks_ids: reencrypted_asks_ids , asks_track_ : asks_track_integer ,
-   asks_level_ : asks_level_integer, asks_letter_ : asks_letter_integer } ,  
-
+   checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_ ids , asks_track_ : asks_track_integer ,
+   asks_level_ : asks_level_integer, asks_letter_ : asks_letter_integer } , 
+  _  at_at_:{ Number ( at_at_integer ) :{_of_:{     ( of_at_integer) :{ 
+ 
  
  
  ledgers :{ 
  
  
 wallets_ledger:{wallets_id     :reencryption_asks_ids,
-ab_integer_id is_reencrypted_ asks_ids      : reencryption_asks_ids_   , 
+wallets_id ab_integer_id is_reencrypted_ asks_ids      : reencryption_asks_ids_no   , 
      
  at_at , 
-, crypteds ,  ()
-:   {}} }, asks is  needed_of_integer_
-: :{} :{ is  wallets_id reencrypted:reencrypted :reencrypted  needed  integer  crypteds ) 
+, crypteds ,  
    
- at_at_:{  Number ( at_at_integer ) :{_of_:{     ( of_at_integer) :{              
- 
-  
- at_crypteds:{     ( at_integer) :{_of_:{      ( reencrypted_integer) :{ reencrypted_of_ :{     ( needed_integer ) :{ needed_of_: {     ( crypteds_integer ) :{ :{ :{ 
+  integer crypteds  
+   
+
+ },:():{}:{reencrypted :{}}needed_of_integer_
+    at_crypteds:{     ( at_integer ) :{_of_:{      ( reencrypted_integer) :{ reencrypted_of_ :{     ( needed_integer ) :{ needed_of_: {     ( crypteds_integer ) :{ :{ :{ 
 , crypteds :{ 
- decrypted__: new    ( bunch_of_o_and_one ),  
-   cryptos_used :{  String   to_crypted__ :{cryptos_used_id_to_crypted ,   crypted    }, 
-   to_crypted_minus:{         ( to_crypted_minus_integer ) :{__:{ cryptos_used_id_to_crypted_minus ,  _is_     },  
+ decrypted__: new  String  ( bunch_of_o_and_one ) ,  
+   cryptos_used :{ to_crypted__ :{cryptos_used_id_to_crypted , crypted     }, 
+   to_crypted_minus:{         ( to_crypted_minus_integer ) :{__:{ cryptos_used_id_to_crypted_minus ,  _is_     },  )
 
    decryption_ask_keys_:{ new String ( sending_backs_keys) :{  
    reencrypted__:       ( reencrypted_binary_buffer ) , keys_for_the_crypted_not_the_reencrypted__ :   } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
@@ -44,37 +44,37 @@ ab_integer_id is_reencrypted_ asks_ids      : reencryption_asks_ids_   ,
 ,. (:  ,,  _asks_id_ :{ ()
  checkers_ledger :{  (): , ( : ) : '="'}( '="' ,
    
- checks_asks  :{ isplain__ : the_things_that_is ,   
-   instanceofdb : {    ( checks_instance_of_dbs_integer ) :{ __:{       _instance_of_dbs } } },id_ _asks_
-   checks_ids__ : asks_ids ,   
+ checks_asks :{ isplain__ : the_things_that_is ,   
+   instanceofdb : {    ( checks_instance_of_dbs_integer ) :{ __:{       _instance_of_dbs } } }, _asks_
+   checks_ids_ _ : asks_   ,id 
    checks__: send_backs_sorted },    
 
 
 constancy_ledger :{ 
 
-constancy_asks_id_ : asks_ids ,    
-constancy_  checks_ : send_backs_sorted ,  
+constancy_asks_ids  _ :     asks_id ,    
+constancy_checks_ : send_backs_sorted ,  
 unconstancy_issue__ : issue , 
-constancy_asks:{ isplain__: the_things_that_is , instanceofdbs:{   (constancy_asks_id_   constancy_asks    _integer ) :{ __ :{     instance_of_dbs } } } },
+constancy_asks:{ isplain__: the_things_that_is , instanceofdbs:{       (     constancy_asks_integer ) :{ __ :{ constancy_asks_  instance_of_dbs } } } },
 
-rewards_asks_ledger : { rewards_asks_id_ : asks_ids , checkers__ : checkers_ids , rewards_asked__ : checker_asked_rewards_integer },
-mean_      _rewards_ :{ mean_ask_id_ : asks_ids , mean_asked_rewards__: mean_asked_rewards_integer } } },
+rewards_asks_ledger : { rewards_asks_ ids  :   _asks_id , checkers__ : checkers_ids , rewards_asked__ : checker_asked_rewards_integer },
+mean_asked  _rewards_ :{ mean_ask_ids_ :   _asks_id , mean_asked_rewards__:    mean_asked_rewards_integer } } }, id_
 
 
-()'="' } 
+  
  used_guides:{
-checkers_used_guide : {	checkers_used:{   :{  ,checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
-wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_vresion , needs_:{} , tasks:{} },
-cryptos_used_guide : { cryptos_used: { cryptos_used_ids__:__used_     , needs_:{} , tasks_ :{} },
-d,s _used_guide : { db_used: { dbs_used_ids__: __used_ ,_used_  :__used_version } , needs_:{}, tasks_ :{} },
-datas_udsed_guide : { datas_used: {} ,needs: {} , uis :{ui_used_id , ui_used_version  } } ,
+checkers_used_guide : {	checkers_used:{   :{    ,checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
+wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_   vresion , needs_:{} , tasks:{} },
+cryptos_used_guide : { cryptos_used: { cryptos_used_ids__:_  _used_id , needs_:{} , tasks_ :{} },
+    _used_guide : { db_used: { dbs_used_ids__: _   _used_   ,_used_  : _  _used_version } , needs_:{}, tasks_ :{} },
+datas_udsed_guide : { datas_used: {} ,needs: {} , uis :{ui_used_id , ui_used_version } } ,
 
-
-guides
+() '="'}  ids
+guides 
 :{
        _guide : { db_package_:{ the_db_object } ,tasks_:{} },__
 checking_guide : { checking_package_:{ the_checking_package_and_coded_tasks } , tasks_: { } },
- sendin  _guide : {      sendin _package_:{         _package_and_coded_tasks } , tasks_:{ } },
+ sendin  _guide : {   sendin   _package_:{         _package_and_coded_tasks } , tasks_:{ } },
  limits_guide : { needs_:{ } , limits_:{ } },
 rewards_guide : { needs_:{ } ,tasks_:{ } }}},}, __
 
