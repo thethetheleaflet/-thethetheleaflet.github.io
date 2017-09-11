@@ -24,7 +24,7 @@ for( ; methodes . name . toString ( ) .slice ( 0 , 2 ) != "is_" ; ) {
 
 
 
-
+ 
 
 
 
@@ -46,26 +46,26 @@ for ( ; methodes. value = 0 ; ) {
 
 
 
-, methods. is_asks_ids :{
+, methods. is_asks_ids :{ 
 objects : typeof that === 'object'
-, prototypeof_asks_ids:asks_ids . prototype.isPrototypeOf ( that )
-, eight   _  element : that.     =    , ()   } , 
+, prototypeof_asks_ids :  asks_ids . prototype.isPrototypeOf ( that )
+, eight_element   : that.childElementCount =    , ()   } , 
 , methods.is_asks_level_integer:{
- , positive_integer:    . isInteger( that )
-, over_minus_one : that > childElementCount
-, under_   eleven  :that   ,    :    (that)   }
-.. is   '' " =  '="'}(
+  positive_integer: Number . isInteger( that )
+, over_minus_one : that > 
+, under_eleven : that =  ,    :    (that)   }
+ is .. , ''    '="'}(childElementCount
 , methods.is_at_integer :{
 , 
-,positive_integer:      .isInteger( that )
+,positive_integer: Number .isInteger( that )
 , under_crypteds_integer:      >=  
 , over_minus_     : that   
 ,     that } ,
-
+one  
 , methods.is_binary_buffer:{
  string: typeof that === 'string' 
-, string_of_one_and_o:   > 
-     ( for ( that_ = 0; that_  that . length   that_      ;that_++ ) {
+, string_of_one_and_o :   > 
+     ( for ( that_ = 0; that_   that . length   that_ ;that_++ ) {
  for ( ; that[that_ ] = 0 ; ) {
 
  _that_ =   _that_ ;
@@ -78,40 +78,40 @@ objects : typeof that === 'object'
 , 
  }
 , methods.is_checkers_ids :{
-, asks_ids_of_package_asks: parentElement   is_asks_ ids
+, asks_ids_of_package_asks: formats  methods  is_asks_ids
 
 , :        ( that )   }:
 , methods.is_coded:{
 jshint_:   (    ,   , 
 
- ,,)   {=,':(ids =  "',=   ""'} }'' '' "" ''  }   }}'="'constructor:
-, methods.is_crypteds:{
-,instance_of_wallets:  . that.  = wallets_ledger  . .
-, : .  . ( that );,  }
-, methods.is_crypteds_integer:{
-, over_minus_one: that >
-,  :    .   . (that) ,   }
-, methods.is_cryptos_used_ids:{
-,:that>}
-,.'="'
+ ,,)   ids =  "',=    }'' '' "" ''  }   }}' = "' :
+, methods.is_crypteds:{  .
+,instance_of_wallets: that . parentElement   constructor =   wallets_ledger   .
+,       :       .  . ( that ) ; ,      . } 
+, methods.is_crypteds_integer:{ 
+, over_minus_one: that > 
+,  :    .   . (that) ,   } 
+, methods.is_cryptos_used_ids:{  :  
+  instanceOf   ,isInstanceOf ( that>  } ""'}
+,.'="' {=,':
 
 
 ,.
 , methods.is_instance_of_dbs:{
-1('="' ) ,  ,instance_of_dbs: typeof that   'object'
-, prototypeof_    :,. ,.isPrototypeOf( that)
-,:that}
-,      methods.is_material_characteristics:{
+1( )   instance_of_dbs:       ,  typeOf  typeof that     'object'
+, prototypeof_     : ,.    .isPrototypeOf( that )
+,:that}'="',
+,   ,   methods.is_material_characteristics:{
     (1,:that,}
 , methods. is_mean_ask_ids:{
 ,. ();,1,:{ :that>1}
 
 , methods. is_mean_ask_integer:{
 , ;  . )  ,   . isInteger (  that  ) ,  :   >  1  }
-,,methods.is_needed_integer: {   )
- . (  ) ;   .isInteger (    that  ,  :   >  1};
+,,methods.is_needed_integer: {   
+ . (  ) ;   .isInteger ( that  , ) :   >  1};
 , methods.is_place: {
-  (  )  . isPrototypeOf   ,   : , ;, }
+  (  )  . isPrototypeOf   ,  childElementCount    : , ;, }
 ,     ,  ,    )
 , methods.is_plain: {
   ,that,:'="',{:  ;    ( that);,  }; }
@@ -144,7 +144,7 @@ formats = {
 
 wallets_ledger : {
 
-wallets_id : is_asks_ids ,at_
+wallets_id :     is_asks_ids ,at_
 
  at_: { is_at_integer: { _of_: { is_reencrypted_integer: { reencrypted_of_: { is_needed_integer: { needed_of_: { is_crypteds_integer: {used: {
 crypteds
