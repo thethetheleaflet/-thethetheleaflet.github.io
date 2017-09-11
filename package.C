@@ -1,4 +1,4 @@
- var methods ={  ;methods.prototype.  Object  .prototype .is_     ,  ,, methods
+ var methods ={} ;methods.prototype. Object .prototype .is_    ; ,  ,, methods
 
  . this_is
 = for
@@ -6,21 +6,21 @@
  ( var methodes in this ) {
 for( ; methodes . name . toString ( ) .slice ( 0 , 2 ) != "is_" ; ) {
  this . is_ =   * methodes ;
+ }
 
-
-} }
+} 
  ,methods. that
  = eval ( [ "dbs " , this .constructor . toString ( ). slice ( 8 ) ] .join( "." )
-) ;
+) 
 
 
-     ,
+ ,
  
 
 
 
 , methods
-. this_could_be  : {   for ( ; that != 0 ; ) {
+. this_could_be  : { for ( ; that != 0 ; ) {
 
 
 
@@ -49,45 +49,48 @@ for ( ; methodes. value = 0 ; ) {
 , methods. is_asks_ids :{
 objects : typeof that === 'object'
 , prototypeof_asks_ids:asks_ids . prototype.isPrototypeOf ( that )
-,        : that.childElementChild   = , ()   } , 
+, eight   _  element : that.     =    , ()   } , 
 , methods.is_asks_level_integer:{
  , positive_integer:    . isInteger( that )
-, over_minus_one : that > 
-, under_     :that   ,  :    (that) ,  }
-.. is _  '' " =  '="'}(
+, over_minus_one : that > childElementCount
+, under_   eleven  :that   ,    :    (that)   }
+.. is   '' " =  '="'}(
 , methods.is_at_integer :{
 , 
 ,positive_integer:      .isInteger( that )
-, under_crypteds_integer:      >=
-, over_minus_  : that >  
-,    :( that      .    }
+, under_crypteds_integer:      >=  
+, over_minus_     : that   
+,     that } ,
 
 , methods.is_binary_buffer:{
  string: typeof that === 'string' 
-, string_of_one_and_o:
-     (' for ( that_ = 0;that_ that . length     ;that_++ ) {
+, string_of_one_and_o:   > 
+     ( for ( that_ = 0; that_  that . length   that_      ;that_++ ) {
  for ( ; that[that_ ] = 0 ; ) {
 
- _that_ =   _that_:  that_
- }   
- _that_= * that [that_ ] ;      _that_ : } =  ') ;
-="'}  '="
-, "'_
-'="',  '="'  }
+ _that_ =   _that_ ;
+    
+ }_that_ = * that [ that_ ] ;      _that_; } =     ); 
+    = asks_ids:{ . place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
+  checkers_ids_:   _     , reencrypted_asks_ids   : reencrypted_asks_       , asks_track_ :   asks_track_integer    , 
+   asks_level_ :  ;   asks_level_integer     , asks_letter_ :   asks_letter_integer    } ,  
+ 
+, 
+ }
 , methods.is_checkers_ids :{
-, asks_ids_of_package_asks: is_asks_ids
+, asks_ids_of_package_asks: parentElement   is_asks_ ids
 
-, :        (that )   }
+, :        ( that )   }:
 , methods.is_coded:{
-jshint_:   (    ,   ,
+jshint_:   (    ,   , 
 
-   { ,,); =, };};}}'="'constructor
+ ,,)   {=,':(ids =  "',=   ""'} }'' '' "" ''  }   }}'="'constructor:
 , methods.is_crypteds:{
-,instance_of_wallets:  . that   .wallets_ledger. .
-, : .. (  that);,  }
+,instance_of_wallets:  . that.  = wallets_ledger  . .
+, : .  . ( that );,  }
 , methods.is_crypteds_integer:{
 , over_minus_one: that >
-,  :    .. (that) ,   }
+,  :    .   . (that) ,   }
 , methods.is_cryptos_used_ids:{
 ,:that>}
 ,.'="'
