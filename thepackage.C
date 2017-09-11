@@ -13,15 +13,15 @@ var dbs =
 
 
  asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
-   checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_ ids , asks_track_ : asks_track_integer ,
-   asks_level_ : asks_level_integer, asks_letter_ : asks_letter_integer } , 
-  _  at_at_:{ Number ( at_at_integer ) :{_of_:{     ( of_at_integer) :{ 
+   checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_id , asks_track_ : Number   asks_track_integer     ,
+   asks_level_ : Number   asks_level_integer    , asks_letter_ : Number   asks_letter_integer     } , 
+  _  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer) :{ 
  
  
  
  ledgers :{ 
  
- 
+ ids
 wallets_ledger:{wallets_id     :reencryption_asks_ids,
 wallets_id ab_integer_id is_reencrypted_ asks_ids      : reencryption_asks_ids_no   , 
      
@@ -32,7 +32,7 @@ wallets_id ab_integer_id is_reencrypted_ asks_ids      : reencryption_asks_ids_n
    
 
  },:():{}:{reencrypted :{}}needed_of_integer_
-    at_crypteds:{     ( at_integer ) :{_of_:{      ( reencrypted_integer) :{ reencrypted_of_ :{     ( needed_integer ) :{ needed_of_: {     ( crypteds_integer ) :{ :{ :{ 
+    at_crypteds:{ Number    ( at_integer ) :{_of_:{Number     ( reencrypted_integer) :{ reencrypted_of_ :{Number     ( needed_integer ) :{ needed_of_: {     ( crypteds_integer ) :{ :{ :{ 
 , crypteds :{ 
  decrypted__: new  String  ( bunch_of_o_and_one ) ,  
    cryptos_used :{ to_crypted__ :{cryptos_used_id_to_crypted , crypted     }, 
@@ -42,36 +42,36 @@ wallets_id ab_integer_id is_reencrypted_ asks_ids      : reencryption_asks_ids_n
    reencrypted__:       ( reencrypted_binary_buffer ) , keys_for_the_crypted_not_the_reencrypted__ :   } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
  
 ,. (:  ,,  _asks_id_ :{ ()
- checkers_ledger :{  (): , ( : ) : '="'}( '="' ,
+ checkers_ledger :{   ,  :  : '="'}( '="', asks_
    
- checks_asks :{ isplain__ : the_things_that_is ,   
-   instanceofdb : {    ( checks_instance_of_dbs_integer ) :{ __:{       _instance_of_dbs } } }, _asks_
-   checks_ids_ _ : asks_   ,id 
-   checks__: send_backs_sorted },    
+ checks_asks :{ isplain__ : the_things_that_is ,    
+   instanceofdb : { Number ( checks_instance_of_dbs_integer ) :{ __:{ checks  _instance_of_dbs } } }, 
+   checks_ids_ : checks  asks_id ,_
+   checks_ : send_backs_sorted },    
 
 
-constancy_ledger :{ 
+constancy_ledger  _ :{ 
 
-constancy_asks_ids  _ :     asks_id ,    
+constancy_asks_ids_ :     _ asks_id ,    
 constancy_checks_ : send_backs_sorted ,  
 unconstancy_issue__ : issue , 
-constancy_asks:{ isplain__: the_things_that_is , instanceofdbs:{       (     constancy_asks_integer ) :{ __ :{ constancy_asks_  instance_of_dbs } } } },
+constancy_asks :{ isplain__: the_things_that_is , instanceofdbs:{ Number ( constancy_asks_integer ) :{ __ :{ constancy_asks_  instance_of_dbs } } } },
 
-rewards_asks_ledger : { rewards_asks_ ids  :   _asks_id , checkers__ : checkers_ids , rewards_asked__ : checker_asked_rewards_integer },
-mean_asked  _rewards_ :{ mean_ask_ids_ :   _asks_id , mean_asked_rewards__:    mean_asked_rewards_integer } } }, id_
+rewards_asks_ledger : { rewards_asks_ids   : rewards  _asks_id , checkers__ : checkers_  ids , rewards_asked__ : checker_asked_rewards_integer },
+mean_asked  _rewards_ :{ mean_ask_ids_ : mean  _asks_id ():  , mean_asked_rewards__: Number (  ) mean_asked_rewards_integer   } } }, id_
 
 
   
  used_guides:{
-checkers_used_guide : {	checkers_used:{   :{    ,checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
-wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_   vresion , needs_:{} , tasks:{} },
-cryptos_used_guide : { cryptos_used: { cryptos_used_ids__:_  _used_id , needs_:{} , tasks_ :{} },
-    _used_guide : { db_used: { dbs_used_ids__: _   _used_   ,_used_  : _  _used_version } , needs_:{}, tasks_ :{} },
+checkers_used_guide : {	checkers_used:{   :{ '="' } ,checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
+wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_        , needs_:{} , tasks:{} },
+cryptos_used_guide : { cryptos_used: { cryptos_used_ids__:  _  _used_id , needs_:{} , tasks_ :{} },
+    _used_guide : { db_used: { dbs_used_ids__: _   _used_  id ,   _used_versions : _    _used_version } , needs_:{}, tasks_ :{} },
 datas_udsed_guide : { datas_used: {} ,needs: {} , uis :{ui_used_id , ui_used_version } } ,
 
-() '="'}  ids
+() ids  ids
 guides 
-:{
+:{id
        _guide : { db_package_:{ the_db_object } ,tasks_:{} },__
 checking_guide : { checking_package_:{ the_checking_package_and_coded_tasks } , tasks_: { } },
  sendin  _guide : {   sendin   _package_:{         _package_and_coded_tasks } , tasks_:{ } },
@@ -102,8 +102,8 @@ asks_level_      sending_backs      ,level_  level_ _send_backs_sorted
 
 
 
-   prompted_  is = ' <button name="   (   .name.constructor)   "    =" ( methods.prompt_  ) " id=" ( this.name.constructor )   "   =" .(',''     " > </button>'     ;
-  }; button ,' ', ', ,' ,'(
+   prompted_  is = ' <button name="   (   .name.constructor)   "            ="methods.prompt_"   id=" ( this.name.constructor )   "   =" .(',''     " > </button>'     ;
+  }; button ,' ', ', ,' , '()(
 
   for ( var instance_of_ of instance_of__ ) {      
 
