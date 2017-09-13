@@ -120,17 +120,17 @@ jshint_:   (    ,   ,
 ,methods.is_rewards_integer:{, 
 ,:that >   1: { } . (that);,
 , methods. is_the_checking_package_and_coded_tasks:{
-'="'  ,1,:that,, . }
+'="' () ,1,:that(),, . }
 , methods.is_the_db_object:{
-:that,:that .,.}
+:that,: ( that ) .,.}
 , methods.is_the_sending_package_and_coded_tasks:{
-,:that.,that '="''="' ,.};,/'
+,:that., (that ) '="''="' ,.};,/'
 1
 
-
+:
 
   methods.is_wallets_used_version:{
-,:that.   }, ;
+,:that().   }, ;
 
 
 
@@ -138,27 +138,27 @@ jshint_:   (    ,   ,
 formats = {
 
 
- ledgers : {
+ ledgers :{ 
 
 
+reencrypted_ instance_of_wallets_id_that_has_checkers_id__
+wallets_ledger :{ 
 
-wallets_ledger : {
+wallets_id :     is_asks_ids , at_  keys_for_the_crypted_not_the_reencrypted__
 
-wallets_id :     is_asks_ids ,at_
-
- at_: { is_at_integer: { _of_: { is_reencrypted_integer: { reencrypted_of_: { is_needed_integer: { needed_of_: { is_crypteds_integer: {used: {
-crypteds
-  cryptos_used : {
-   to_crypted__ : is_cryptos_used_ids ,
-   to_crypted_minus_: { is_crypted_minus_integer :{ __: is_cryptos_used_ids} }} ,
-   crypted__: is_binary_buffer ,
-   decrypted__: is_binary_buffer ,
+   at_: { is_at_integer :{ _of_: { is_reencrypted_integer :{ reencrypted_of_: { is_needed_integer: { needed_of_: { is_crypteds_integer: {used: {
+crypteds:{ 
+  cryptos_used : {  { :}}:{()
+   to_crypted__ :   is_cryptos_used_ids ,   }  keys_for_the_crypted_not_the_reencrypted__
+   to_crypted_minus_: { is_crypted_minus_integer :{ __: { is_cryptos_used_ids :{} }} } } ,
+   crypted__: is_binary_buffer ,  
+   decrypted__: is_binary_buffer ,   
   asks_keys_: { is_sending_backs_keys :{
    reencrypted__: is_crypteds ,
    keys:{ low_id_:  low_id __, random_id__: is_random_id ,
-    keys_for_the_crypted_not_the    _reencrypted__: is_binary_buffer }
+    keys_for_the_crypted_not_the_reencrypted__ : is_binary_buffer }
 wallets_id  is_asks_ids  crypteds
- } } } }} } }} }} } } ,   instance_of_checkers_used_guide  wallets_id that has checkers_ids}}}        , lowdollars:{ is_low_integer } } ,
+ } } } }} } }} }} } } ,   instance_of_checkers_used_guide   that has wallets_id checkers_ ids}}}        , lowdollars:{ is_low_integer } } ,
 
 
 
@@ -168,15 +168,15 @@ wallets_id  is_asks_ids  crypteds
 ,   :{checks_level:{
  asks_level_: { is_asks_level_integer: { _send_backs_level_: { is_sending_backs_level_integer :{
   checkers_ids_: is_checkers_ids , approval_ : is_approval } }}} ,
- levels :{ asks_level_: { is_asks_level_integer: { _sending_backs_level_: { is_sending_backs_level_integer :{
+ levels :{ asks_level_: { is_asks_level_integer: { _sending_backs_level_:{ is_sending_backs_level_integer :{
   level_ : is_asks_level_integer , approval_: is_approval } } }} }
-} } ,
+} } ,checks
 
-checkers_
- checks_asks: {
-  isplain__ : is_plain , instanceofdbs: { is_checks_asks_instance_of_dbs    _integer :  __ :{ is_instance_of_dbs }}}} ,
+checkers  _ checks
+ checks_asks: {constancy_asks_ids_
+  isplain__ : is_plain , instanceofdbs: { is_checks_asks_instance_of_dbs  _integer :{ __ :{ is_instance_of_dbs  }}}} ,
  checks_id_ : is_asks_ids ,
- checks_ : is_send_backs_sorted } ,
+ checks_ : is_send_backs_sorted } ,  }}():}}
 
 
 constancy_ledger : {
@@ -189,7 +189,7 @@ constancy_ledger : {
 
  constancy_asks :{
   isplain__: is_plain ,
-  instanceofdbs      constancy_asks_instance_of_dbs_integer  { __: is_instance_of_dbs }} }} ,
+  instanceofdbs      constancy_asks_instance_of_dbs_integer    { __: is_instance_of_dbs }} }} ,
 
 rewards_asks_ledger : {
   rewards_asks_id_ : is_asks_ids ,
@@ -213,8 +213,8 @@ used_guides:{
   tasks__ : is_plain } ,
 
  wallets_used_guide : {
-  wallets_used: { wallets_used_ids  : is_wallets_used_id ,
-        wallets_used_versions_     : is_wallets_used_version } ,
+  wallets_used : { wallets_used_ids   : is_wallets_used_id ,
+ wallets_used_versions_     : is_wallets_used_version } ,
   needs__ : is_plain ,
   tasks__: is_plain } ,
 
@@ -230,9 +230,9 @@ dbs_used_guide : {
  needs__ : is_plain ,
  tasks__: is_plain },
 datas_used _used_guide : {
-}datas:{_used___: is_    _used_id ,  _used__: is_plain}; ,
+}datas:{_used___: is_    _used_id ,  _used_  _: is_ plain}; ,
  needs__: is_plain ,
-     uis:{_ _used__  _ui_used__ ,  used___:  _ui_used_version }}} ,
+     uis:{_ _used__  _ui_used_   _id ,  used_  __:  _ui_used_version }}} ,
 
 
 
@@ -247,7 +247,7 @@ guides
 : {
   ledger ledgering_guide : { db_package_: is_the_db_object , task_ : is_plain },
  checking_guide : { checking_package_: is_the_checking_package_and_coded_tasks , tasks_: is_plain },
- sending_guide : { send_package_: is_the_sending_package_and_coded_tasks , tasks :   isplain_ :is_plain , _  is_,  },
+ sending_guide : { send_package_: is_the_sending_package_and_coded_tasks , tasks :   isplain_ :is_plain , _ , is_   },
 
  limits_guide : { needs_: is_plain , limits: { isplain_ : is_plain ,    _: is_coded }},
  rewards_guide : { needs_: is_plain , tasks_: is_plain }},
