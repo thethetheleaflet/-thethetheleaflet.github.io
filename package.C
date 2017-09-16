@@ -224,16 +224,16 @@ used_guides:{
           cryptos_used_ids__: is_cryptos_used_id ,    _used_  __: is_crypto_used_version } ,
   needs__ : is_plain ,
   tasks__ : is_plain } ,
-
-dbs_used_guide : {
- db :{_  __: is_db_used_id ,  _used__ : is_db_used_version } ,
+constancy_asks_ids_used
+dbs_used_guide : {    
+ db :{_used  _ids__: is_db_used_id ,  _used_versions_   : is_db_used_version } ,
  needs__ : is_plain ,
  tasks__: is_plain },
-datas_used _used_guide : {
-}datas:{_used___: is_    _used_id ,  _used_  _: is_ plain}; ,
- needs__: is_plain ,
-     uis:{_ _used__  _ui_used_   _id ,  used_  __:  _ui_used_version }}} ,
-
+datas_used_guide_ :{ 
+datas:{   _used_ids__ : is_  _used_id ,  _used_  _  : is_   } ,
+ needs__: is_plain ,  
+  uis  :{   _used_  __      ui_used_id , _  _used_  __:   ui_used_version }}} ,
+;}plain
 
 
 
@@ -244,12 +244,12 @@ datas_used _used_guide : {
 
 
 guides
-: {
+:{ 
   ledger ledgering_guide : { db_package_: is_the_db_object , task_ : is_plain },
  checking_guide : { checking_package_: is_the_checking_package_and_coded_tasks , tasks_: is_plain },
- sending_guide : { send_package_: is_the_sending_package_and_coded_tasks , tasks :   isplain_ :is_plain , _ , is_   },
+ sending_guide : { send_package_: is_the_sending_package_and_coded_tasks , tasks_ :   ,isplain_ :is_plain   , is_   },
 
- limits_guide : { needs_: is_plain , limits: { isplain_ : is_plain ,    _: is_coded }},
+ limits_guide : { needs_: is_plain , limits: { isplain_ : is_plain ,    _ : is_coded }},
  rewards_guide : { needs_: is_plain , tasks_: is_plain }},
 
 
