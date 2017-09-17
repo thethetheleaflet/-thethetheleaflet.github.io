@@ -12,31 +12,31 @@ var dbs =
    asks_level : is_asks_level _integer, asks_letter__: is_asks_letter ,  
 
 
- asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
-   checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_id , asks_track_ : Number ( asks_track_integer   ) ,
-   asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) } , 
-    _at   at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{    
- },:_
-  
+ asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ }} , current_ : current_ ,low_id:{ is_low_id   ,
+   checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_id , asks_track_ : Number ( asks_track_integer ) ,
+   asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
+      :  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} ,   
+ at_at
+   
  
  ledgers :{ 
- )((())  
+ )(((())) }, 
  ids keys_for_the_crypted_not_the_reencrypted__
 wallets_ledger:{wallets_id     :reencryption_asks_ids,
-wallets_id    integer_id is_ reencrypted_ asks_ids : reencryption_asks_ids_no   , 
-     
- at_at , 
-, crypteds ,  
-   _asks_id_  
- integer crypteds  
-' ()   
- 
-    :{  :{reencrypted :{ needed_of_integer_()
-at =  at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{     used ( crypteds_integer ) :{ used:{ :{ 
-}}}, crypteds :{ instance_of_wallets_id_that_has_checkers_id__
-() , decrypted__ : new String ( bunch_of_o_and_one ) , keys_for_the_crypted_not_the_reencrypted__ )
-   cryptos_used :{ to_crypted__ :{cryptos_used_id_to_crypted , crypted }, 
-   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{__:{ cryptos_used_id_to_crypted_minus semi,  _is_  }, 
+wallets_id    integer_id is_ reencrypted_ asks_ids : reencryption_asks_ids_no   , }}},
+     }}},
+ at_at , }}},
+ crypteds ,  
+ asks_id,
+   ,
+  integer  crypteds() )__=
+() constancy_asks_id_reencrypted'_
+       :{ needed_ of_integer_:{}}},  
+at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
+}}}}}},, crypteds :{ instance_of_wallets_id_that_has_checkers_id 
+ , decrypted__ : new String ( bunch_of_o_and_one ) ,   keys_for_the_crypted_not_the_reencrypted__ }}},
+   cryptos_used :{ to_crypted__ :{ cryptos_used_id_to_crypted__    cryptos_used_id_to_crypted ,    cryptos_used_id_to_crypted used  crypted }, 
+   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{__:{    cryptos_used_id_to cryptos_used_id_to_crypted _crypted_minus semi,    _is_  }, 
 facultative
    decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
    reencrypted__:       ( reencrypted_binary_buffer ) ,   keys_for_the_crypted_not_the_reencrypted__ :   } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
