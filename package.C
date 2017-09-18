@@ -174,33 +174,33 @@ wallets_id  is_asks_ids __ crypteds
 
  checks_ 
  checks_asks: { checks_asks_ids   
-  isplain__ : is_plain , instanceofdbs:{ is_checks_asks_instance_of_dbs  _integer :{ __ :{ is_  instance_of_dbs  }}}} ,
- checks_id_ : is_  asks_ids ,
- checks_ : is_send_backs_sorted } , _ }}():}}
-constancy
+  isplain__ : is_plain , instanceofdbs:{ is_checks_asks_instance_of_dbs  _integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
+ checks_id_ : is_  asks_ids ,instance_of_dbs
+ checks_ : is_send_backs_sorted } ,  
 
-constancy_ledger : {
 
- constancy_asks_id_ : is_asks_ids ,
+constancy_ledger :{ 
+
+ constancy_asks_id_ : is_constancy_   asks_ids ,
  constancy_checks_ : is_send_backs_sorted ,
- unconstancy_issues : {
+ unconstancy_issues :{ 
   isplain__: is_plain ,
-  instanceofdbs : { is_unconstancy_issues_integer: {__ :{ is_instance_of_dbs } }}} ,
+  instanceofdbs :{ is_unconstancy_issues_integer: {__ :{ is_unconstancy_issues_  instance_of_dbs } }}} , 
 
  constancy_asks :{
   isplain__: is_plain ,
-  instanceofdbs      constancy_asks_instance_of_dbs_integer    { __: is_instance_of_dbs }} }} ,
+  instanceofdbs :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_  constancy_asks_  instance_of_dbs }} }} ,
+ is_} }_asks_id_checkers}}() id_integer :
+rewards_asks_ledger :{ 
+  rewards_asks_id_ : is_rewards_asks_ids ,
+  checkers__: is_checkers_id , 
+  rewards_asked__ : is_   asked_rewards_integer ,
+  rewards_checks_ : is_send_backs_sorted } , 
+_:{_
 
-rewards_asks_ledger : {
-  rewards_asks_id_ : is_asks_ids ,
-  checkers__: is_checkers_id ,
-  rewards_asked__ : is_checkers_asked_rewards_integer ,
-  rewards_checks_ : is_send_backs_sorted } ,
-
-
- mean_asked_rewards_ledger:{
-  mean_asked_rewards_id_ : is_mean_ask_ids ,
-  mean_ask_: is_mean_ask_rewards_integer } ,
+ mean_asked_rewards_ledger:{ 
+  mean_asked_rewards_id  : is_mean_ask_ids ,
+  mean_ask : is_mean_ask_rewards_integer } ,
 
 
 
@@ -208,20 +208,20 @@ rewards_asks_ledger : {
 used_guides:{
  checkers_used_guide : {
   checkers_used :{
-   checkers_ids__ : is_checkers_id , material_characteristics__ : is_material_characteristics, ips__: is_ips , wallets__ : is_wallets_ids } ,
+     checkers_ids__ : is_checkers_id , material_characteristics__ : is_material_characteristics, ips__: is_ips , wallets__ : is_wallets_ids } ,
   needs__ : is_plain ,
   tasks__ : is_plain } ,
 
  wallets_used_guide : {
-  wallets_used : { wallets_used_ids   : is_wallets_used_id ,
- wallets_used_versions_     : is_wallets_used_version } ,
+  wallets_used : { wallets_used_ids__ : is_wallets_used_id ,
+ wallets_used_versions__ : is_wallets_used_version } ,
   needs__ : is_plain ,
   tasks__: is_plain } ,
 
-
- cryptos_used_guide : {
+:{constancy   asks   id   
+ cryptos_used_guide :{ 
   cryptos_used :{
-          cryptos_used_ids__: is_cryptos_used_id ,    _used_  __: is_crypto_used_version } ,
+          cryptos_used_ids__: is_cryptos_used_id   ,  _used_  __: is_crypto_used_version } ,
   needs__ : is_plain ,
   tasks__ : is_plain } ,
 constancy_asks_ids_used
