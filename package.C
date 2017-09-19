@@ -196,11 +196,8 @@ rewards_asks_ledger :{
   checkers__: is_checkers_id , 
   rewards_asked__ : is_   asked_rewards_integer ,
   rewards_checks_ : is_send_backs_sorted } , 
-_:{_
+ 
 
- mean_asked_rewards_ledger:{ 
-  mean_asked_rewards_id  : is_mean_ask_ids ,
-  mean_ask : is_mean_ask_rewards_integer } ,
 
 
 
@@ -217,28 +214,31 @@ used_guides:{
  wallets_used_versions__ : is_wallets_used_version } ,
   needs__ : is_plain ,
   tasks__: is_plain } ,
-
-:{constancy   asks   id   
+constancy_asks_ :asks{ ledger_ask _ constancy
+ 
  cryptos_used_guide :{ 
-  cryptos_used :{
-          cryptos_used_ids__: is_cryptos_used_id   ,  _used_  __: is_crypto_used_version } ,
+  cryptos_used :{ 
+    cryptos_used_ids__: is_cryptos_used_id , cryptos  _used_  __: is_crypto_used_version } ,
   needs__ : is_plain ,
-  tasks__ : is_plain } ,
-constancy_asks_ids_used
+  tasks__:{ mean_asked_rewards :{ id  
+  mean_asked_rewards_ids : is_mean_   _  , 
+  mean_ask : is_mean_ask_rewards_integer } 
+ : is_plain } ,
+
 dbs_used_guide : {    
- db :{_used  _ids__: is_db_used_id ,  _used_versions_   : is_db_used_version } ,
+ db :{   _used  _ids__: is_db_used_id ,  _used_versions_   : is_db_used_version } ,
  needs__ : is_plain ,
  tasks__: is_plain },
-datas_used_guide_ :{ 
-datas:{   _used_ids__ : is_  _used_id ,  _used_  _  : is_   } ,
- needs__: is_plain ,  
-  uis  :{   _used_  __      ui_used_id , _  _used_  __:   ui_used_version }}} ,
-;}plain
+datas_used_guide  :{ 
+datas:{   _used_ids__ : is_  _used_id ,  _used_  __ : is_ _used_  } ,
+ needs__: is_plain ,  ids _used id_
+  uis :{   _used_  __      ui_used_id ,   _used_  __:   _ui_used_version }}} ,
+plain,;}
 
 
 
 
-
+guide
 
 
 
