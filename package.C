@@ -92,8 +92,8 @@ jshint_:   (    ,   ,
 , over_minus_one: that > 
 ,  :    .   . (that) ,   } 
 , methods.is_cryptos_used_ids:{  :  
-  instanceOf   ,isInstanceOf ( that>  } ""'}
-,.'="' {=,':
+  instanceOf :  ,isInstanceOf ( that>  } ""'}
+,.'="' {=,' 
 
 
 ,.
@@ -144,18 +144,18 @@ reencrypted_
  
 wallets_ledger :{ 
 
-wallets_id : is_asks_ids , at_  keys_for_the_crypted_not_the_reencrypted__
+wallets_id :is_ is_asks_ids , at_  
 instance_of_wallets_id_that_has_checkers_id__
- at_ :{ is_at_integer :{ _of_: { is_reencrypted_integer :{ reencrypted_of_: { is_needed_integer: { needed_of_: {   ( is_crypteds_integer): {used: {}} :{:
+ at_ :{ is_at_integer :{ _of_: { is_reencrypted_integer :{ reencrypted_of_:{ is_needed_integer:{ needed_of_:{       is_crypteds_integer )  : {used: {}} :{:
 crypteds:{ 
-  cryptos_used : {   { 
-   to_crypted__ :  is_cryptos_used_ids is_cryptos_used_ids   , __ }   
-   to_crypted_minus_: { is_crypted_minus_integer :{ __:{ is_cryptos_used_ids: ,   :{} }}}} ,
-   crypted__ is_binary_buffer 
+  cryptos_used : {    
+   to_crypted  : { cryptos_used_ids__   is_cryptos_used_ids   ,crypted__   is_binary_buffer } is_  __(
+   to_crypted_minus_: { is_crypted_minus_integer :{ __:{ cryptos_used_ids :    ,   : { } }}} } ,
+     
    decrypted__: is_binary_buffer ,   
   asks_keys_: { is_sending_backs_keys :{
-   reencrypted__: is_crypteds keys_for_the_crypted_not_the_reencrypted  ,
-   keys:{ low_id_:  low_id  , random_id__: is_random_id ,
+   reencrypted__:     is_ crypteds keys_for_the_crypted_not_the_reencrypted  ,
+   keys:{ low_id_:  low_id  , random_id__: is_random_id ,keys_for_the_crypted_not_the_reencrypted__
     keys_for_the_crypted_not_the_reencrypted__ : is_binary_buffer }
 wallets_id  is_asks_ids __ crypteds
  } } } }} } }} }} } } , instance_of_checkers_used_guide      that has wallets_id checkers_ ids}}}        , lowdollars:{ is_low_integer } } ,
@@ -170,27 +170,27 @@ wallets_id  is_asks_ids __ crypteds
   checkers_ids_: is_checkers_ids , approval_ : is_approval } }}} ,
  levels :{ asks_level_: { is_asks_level_integer: { _sending_backs_level_:{ is_sending_backs_level_integer :{
   level_ : is_asks_level_integer , approval_: is_approval } } }} }
-} } ,checkers
+} } ,
 
- checks_ 
- checks_asks: { checks_asks_ids   
-  isplain__ : is_plain , instanceofdbs:{ is_checks_asks_instance_of_dbs  _integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
- checks_id_ : is_  asks_ids ,instance_of_dbs
- checks_ : is_send_backs_sorted } ,  
-
+ checks_ checkers
+ checks_asks: { checks_asks    
+  isplain__ : is_plain , instanceofdbs_    :{ is_checks_asks_instance_of_dbs_integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
+ checks_id_ : is_asks_ids ,
+ checks_ : is_send_backs_sorted } ,  ids
+instance_of_dbs
 
 constancy_ledger :{ 
 
- constancy_asks_id_ : is_constancy_   asks_ids ,
+ constancy_asks_id_ : is_constancy_asks_ids    ,
  constancy_checks_ : is_send_backs_sorted ,
  unconstancy_issues :{ 
   isplain__: is_plain ,
-  instanceofdbs :{ is_unconstancy_issues_integer: {__ :{ is_unconstancy_issues_  instance_of_dbs } }}} , 
+  instanceofdbs  :{ is_unconstancy_issues_integer: {__ :{ is_unconstancy_issues_ instance_of_dbs  } }}} , 
 
  constancy_asks :{
   isplain__: is_plain ,
-  instanceofdbs :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_  constancy_asks_  instance_of_dbs }} }} ,
- is_} }_asks_id_checkers}}() id_integer :
+  instanceofdbs_ :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_  constancy_asks_  instance_of_dbs }} }} ,
+ is } }_asks_id_checkers}}() id_integer :
 rewards_asks_ledger :{ 
   rewards_asks_id_ : is_rewards_asks_ids ,
   checkers__: is_checkers_id , 
