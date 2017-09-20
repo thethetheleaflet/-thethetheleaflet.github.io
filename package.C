@@ -48,20 +48,23 @@ for ( ; methodes. value = 0 ; ) {
 
 , methods. is_asks_ids :{ 
 objects : typeof that === 'object'
-, prototypeof_asks_ids :  asks_ids . prototype.isPrototypeOf ( that )
-, eight_element   : that.childElementCount =    , ()   } , 
+, prototypeof_asks_ids : asks_ids:{ . place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
+  checkers_ids_:   _     , reencrypted_asks_ids   : reencrypted_asks_       , asks_track_ :   asks_track_integer    , 
+   asks_level_ :  ;   asks_level_integer     , asks_letter_ :   asks_letter_integer    } ,  
+  asks_ids . prototype.isPrototypeOf ( that )
+, eight_element : that.childElementCount =    , ()   } , 
 , methods.is_asks_level_integer:{
   positive_integer: Number . isInteger( that )
 , over_minus_one : that > 
 , under_eleven : that =  ,    :    (that)   }
- is .. , ''    '="'}(childElementCount
+ is .. , '' '="'}(childElementCount
 , methods.is_at_integer :{
 , 
 ,positive_integer: Number .isInteger( that )
 , under_crypteds_integer:      >=  
-, over_minus_     : that   
+, over_minus_  one   : that   
 ,     that } ,
-one  
+  
 , methods.is_binary_buffer:{
  string: typeof that === 'string' 
 , string_of_one_and_o :   > 
@@ -71,10 +74,7 @@ one
  _that_ =   _that_ ;
     
  }_that_ = * that [ that_ ] ;      _that_; } =     ); 
-    = asks_ids:{ . place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
-  checkers_ids_:   _     , reencrypted_asks_ids   : reencrypted_asks_       , asks_track_ :   asks_track_integer    , 
-   asks_level_ :  ;   asks_level_integer     , asks_letter_ :   asks_letter_integer    } ,  
- 
+    = 
 , 
  }
 , methods.is_checkers_ids :{
@@ -124,7 +124,7 @@ jshint_:   (    ,   ,
 , methods.is_the_db_object:{ 
  objects : typeOf that = '   ' ,   : ( that ) .,.}
 , methods.is_the_sending_package_and_coded_tasks:{
-,:that., (that ) '="' ,.};,/'"
+,:that., (that ) '="' , .};,/'"
 1
 
 :
@@ -136,48 +136,48 @@ jshint_:   (    ,   ,
 
 
 formats = {
-
+is_
 
  ledgers :{ 
 
-reencrypted_
+
  
 wallets_ledger :{ 
 
-wallets_id :is_ is_asks_ids , at_  
+wallets_id : is_asks_ids , at_  
 instance_of_wallets_id_that_has_checkers_id__
- at_ :{ is_at_integer :{ _of_: { is_reencrypted_integer :{ reencrypted_of_:{ is_needed_integer:{ needed_of_:{       is_crypteds_integer )  : {used: {}} :{:
+ at_ :{ is_at_integer :{ _of_: { is_reencrypted_integer :{ reencrypted_of_:{ is_needed_integer:{ needed_of_:{ is_crypteds_integer )  : {used: {}} :{:
 crypteds:{ 
-  cryptos_used : {    
-   to_crypted  : { cryptos_used_ids__   is_cryptos_used_ids   ,crypted__   is_binary_buffer } is_  __(
-   to_crypted_minus_: { is_crypted_minus_integer :{ __:{ cryptos_used_ids :    ,   : { } }}} } ,
-     
-   decrypted__: is_binary_buffer ,   
-  asks_keys_: { is_sending_backs_keys :{
-   reencrypted__:     is_ crypteds keys_for_the_crypted_not_the_reencrypted  ,
-   keys:{ low_id_:  low_id  , random_id__: is_random_id ,keys_for_the_crypted_not_the_reencrypted__
-    keys_for_the_crypted_not_the_reencrypted__ : is_binary_buffer }
-wallets_id  is_asks_ids __ crypteds
- } } } }} } }} }} } } , instance_of_checkers_used_guide      that has wallets_id checkers_ ids}}}        , lowdollars:{ is_low_integer } } ,
-
-
+  cryptos_used : {    {
+   to_crypted : { cryptos_used_ids__   is_cryptos_used_id ,crypted__   is_binary_buffer }   
+   to_crypted_minus_:{ is_crypted_minus_integer :{ __:{ cryptos_used_ids : is_   __,   :  } }}} } ,
+ 
+   decrypted__ : is_binary_buffer , 
+ asks_keys_: { is_sending_backs_keys :{ 
+   reencrypted__:      {is_reencrypted_  keys_for_the_ crypted_ not_the_reencrypted ,
+  keys_for_the_crypted_not_the_reencrypted__ keys:{ low_id_ :  _low_id , random_id_ : is_random_id ,
+ keys_for_the_crypted_not_the_reencrypted__ : is_binary_buffer }  
+wallets_id __ is_asks_ids  crypteds ids 
+ } } } }} } }} }} }} , instance_of_checkers_used_guide      that has wallets_id checkers_ ids  }}} , lowdollars: is_low_integer } } ,
+(
+crypteds
 
 
 
 
 ,   :{checks_level:{
- asks_level_: { is_asks_level_integer: { _send_backs_level_: { is_sending_backs_level_integer :{
+ asks_level_: { is_asks_level_integer:{ _send_backs_level_:{ is_sending_backs_level_integer :{
   checkers_ids_: is_checkers_ids , approval_ : is_approval } }}} ,
  levels :{ asks_level_: { is_asks_level_integer: { _sending_backs_level_:{ is_sending_backs_level_integer :{
-  level_ : is_asks_level_integer , approval_: is_approval } } }} }
-} } ,
-
- checks_ checkers
- checks_asks: { checks_asks    
-  isplain__ : is_plain , instanceofdbs_    :{ is_checks_asks_instance_of_dbs_integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
- checks_id_ : is_asks_ids ,
- checks_ : is_send_backs_sorted } ,  ids
-instance_of_dbs
+  level_ : is_asks_level_integer , approval_: is_approval }} }} } 
+}} ,
+checks_asks instance_of_dbs ids  
+ checkers_checks 
+  checks_asks: { 
+  isplain__ : is_plain , instanceofdbs_ :{ is_checks_asks_instance_of_dbs_integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
+ checks_id_ : is_asks_ids , 
+ checks_ : is_send_backs_sorted } , 
+  
 
 constancy_ledger :{ 
 
