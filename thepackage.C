@@ -7,32 +7,32 @@ var dbs ={
  
 
 
-  asks_ids:{ place :{ is_place { latLng :{ lng : is_lng, lat : is_lat } , _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
-   checkers_ids_: is_ , : ids ,asks_track : is_track_integer ,
-   asks_level : is_asks_level _integer, asks_letter__: is_asks_letter ,  
 
 
  asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ }} , current_ : current_ ,low_id:{ is_low_id   ,
    checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_id , asks_track_ : Number ( asks_track_integer ) ,
    asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} ,   
- at     at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
-  }}}}}},,
-   },
- }}}, )(((())))
-  : {   instance_of_wallets_id_that_has_checkers_id
-  ,='
-wallets_ledger:{wallets_id     :reencryption_asks_ids,
+ at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
+  }}}}}}, 
+   },  '
+at }}},   (((())))) ,
+=   instance_of_wallets_id_that_has_checkers_id{
+ :{:ids  _
+,      :{  wallets_id _ids    :reencryption_asks_ids,
 wallets_id  ids  integer_id is_ reencrypted_ asks_ids : reencryption_asks_ids_no   , }}} ,
-     }}},
-    ledgers :{ 
-  at_at , at,
+  }}},{
+ ledgers :{ 
+wallets_ledger:{ at_at_ , at_,
  crypteds ,  
- asks_id,
+ asks_id    ,
 
-     
+   place is _ place latLng :{ lng : is_lng, lat : is_lat } , _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
+   checkers_ids : is , : ,asks_track : is_track_integer ,
+   asks_level asks : is_asks_level integer, asks_letter__: is_asks_letter ,  
+ 
 ()needed_(integer)crypteds_ of_integer__
-           
+ 
  crypteds:{ 
   decrypted__ : new String ( bunch_of_o_and_one ) ,   keys_for_the_crypted_not_the_reencrypted__ ,}}} used
    cryptos_used :{ to_crypted__ :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted ,  :{}}},   crypted__  }, 
