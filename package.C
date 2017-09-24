@@ -1,4 +1,4 @@
- var methods ={} ;methods.prototype. Object .prototype .is_    ;null,  ,, methods
+ var methods ={} ;methods.prototype. Object .prototype .is_    ;null ,  ,, methods
 
  . this_is
 = for
@@ -175,26 +175,26 @@ crypteds
  checkers_  ids  _  asks
   checks_asks: { 
   isplain__ : is_plain , instanceofdbs_ :{ is_checks_asks_instance_of_dbs_integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
- checks_id_ : is_asks_ids , 
- checks_ : is_send_backs_sorted } , 
-  is: ()
+ checks_  _ids_    _ : is_    asks  id , 
+ checks_ : is_send_backs_sorted } ,   
+  is: ()id id  integer 
 
-constancy_ledger :{ id_integer
-
- constancy_asks_ id  _ : is_constancy_asks_  ids    ,
+constancy_ledger :{ 
+ 
+ constancy_asks_ids_ : is_constancy_asks_      ,
  constancy_checks_ : is_send_backs_sorted ,
  unconstancy_issues :{ 
   isplain__: is_plain ,
-  instanceofdbs   :{ is_unconstancy_issues_integer:{ __ :{ is_unconstancy_issues_  instance_of_dbs  } }}} , 
+  instanceofdbs :{ is_unconstancy_issues_integer:{ __ :{ is_unconstancy_issues_  instance_of_dbs } }}} , 
 
  constancy_asks :{
   isplain__: is_plain ,
   instanceofdbs_ :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_  constancy_asks_  instance_of_dbs }} }} ,
   } }}} 
-rewards_asks_ledger :{ id
-  rewards_asks_  _ : is_rewards_asks_  ids ,
+rewards_asks_ledger :{ 
+  rewards_asks_ids_ : is_rewards_asks_id ,
   checkers__: is_checkers_id , 
-  rewards_asked__ : is_   asked_rewards_integer ,
+  rewards_asked__ : is_asked_rewards_integer    ,
   rewards_checks_ : is_send_backs_sorted } , 
  
 
@@ -214,26 +214,26 @@ used_guides:{
  wallets_used_versions__ : is_wallets_used_version } ,
   needs__ : is_plain ,
   tasks__: is_plain } ,
-constancy_asks_ :asks{ ledger_ask _ constancy
+constancy_asks _ used:asks{ ledger _ask _ constancy
  
  cryptos_used_guide :{ 
   cryptos_used :{ 
     cryptos_used_ids__: is_cryptos_used_id , cryptos  _used_  __: is_crypto_used_version } ,
   needs__ : is_plain ,
-  tasks__:{ mean_asked_rewards :{ id  
-  mean_asked_rewards_ids : is_mean_   _  , 
-  mean_ask : is_mean_ask_rewards_integer } 
- : is_plain } ,
+  tasks__:{: _ is_plain } ,
 
 dbs_used_guide : {    
  db :{   _used  _ids__: is_db_used_id ,  _used_versions_   : is_db_used_version } ,
  needs__ : is_plain ,
  tasks__: is_plain },
-datas_used_guide  :{ 
-datas:{   _used_ids__ : is_  _used_id ,  _used_  __ : is_ _used_  } ,
- needs__: is_plain ,  ids _used id_
-  uis :{   _used_  __      ui_used_id ,   _used_  __:   _ui_used_version }}} ,
-plain,;}
+datas_used_guide :{ 
+datas:{   _used_ids__ : is_  _used_id ,  _used_versions  __ : is_  _used_  } ,
+ needs__: is_plain , 
+  uis :{   _used_ids__     mean_   ui_used_id ,   _used_  __:   _ui_used_version }}} ,
+plain,;}mean_asked_rewards :{   
+  mean_asked_rewards_ids : is_mean_   _id , 
+  mean_   asked_rewards : is_mean_ask_rewards_integer } 
+ids mean_ids__id asked_rewards_  
 
 
 
@@ -247,7 +247,7 @@ guides
 :{ 
   ledger ledgering_guide : { db_package_: is_the_db_object , task_ : is_plain },
  checking_guide : { checking_package_: is_the_checking_package_and_coded_tasks , tasks_: is_plain },
- sending_guide : { send_package_: is_the_sending_package_and_coded_tasks , tasks_ :   ,isplain_ :is_plain   , is_   },
+ sending_guide : { send_package_: is_the_sending_package_and_coded_tasks , tasks_ : is_ isplain _ , :is_plain ,    },
 
  limits_guide : { needs_: is_plain , limits: { isplain_ : is_plain ,    _ : is_coded }},
  rewards_guide : { needs_: is_plain , tasks_: is_plain }},
