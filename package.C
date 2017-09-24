@@ -1,4 +1,4 @@
- var methods ={} ;methods.prototype. Object .prototype .is_    ; ,  ,, methods
+ var methods ={} ;methods.prototype. Object .prototype .is_    ;null,  ,, methods
 
  . this_is
 = for
@@ -55,7 +55,7 @@ objects : typeof that === 'object'
 , eight_element : that.childElementCount =    , ()   } , 
 , methods.is_asks_level_integer:{
   positive_integer: Number . isInteger( that )
-, over_minus_one : that > 
+, over_minus_one : that >   
 , under_eleven : that =  ,    :    (that)   }
  is .. , '' '="'}(childElementCount
 , methods.is_at_integer :{
@@ -170,29 +170,29 @@ crypteds
   checkers_ids_: is_checkers_ids , approval_ : is_approval } }}} ,
  levels :{ asks_level_: { is_asks_level_integer: { _sending_backs_level_:{ is_sending_backs_level_integer :{
   level_ : is_asks_level_integer , approval_: is_approval }} }} } 
-}} ,
-checks_asks instance_of_dbs ids  
- checkers_checks 
+}}checks ,checks_asks_id_checkers
+ checkers_checks  
+ checkers_  ids  _  asks
   checks_asks: { 
   isplain__ : is_plain , instanceofdbs_ :{ is_checks_asks_instance_of_dbs_integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
  checks_id_ : is_asks_ids , 
  checks_ : is_send_backs_sorted } , 
-  
+  is: ()
 
-constancy_ledger :{ 
+constancy_ledger :{ id_integer
 
- constancy_asks_id_ : is_constancy_asks_ids    ,
+ constancy_asks_ id  _ : is_constancy_asks_  ids    ,
  constancy_checks_ : is_send_backs_sorted ,
  unconstancy_issues :{ 
   isplain__: is_plain ,
-  instanceofdbs  :{ is_unconstancy_issues_integer: {__ :{ is_unconstancy_issues_ instance_of_dbs  } }}} , 
+  instanceofdbs   :{ is_unconstancy_issues_integer:{ __ :{ is_unconstancy_issues_  instance_of_dbs  } }}} , 
 
  constancy_asks :{
   isplain__: is_plain ,
   instanceofdbs_ :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_  constancy_asks_  instance_of_dbs }} }} ,
- is } }_asks_id_checkers}}() id_integer :
-rewards_asks_ledger :{ 
-  rewards_asks_id_ : is_rewards_asks_ids ,
+  } }}} 
+rewards_asks_ledger :{ id
+  rewards_asks_  _ : is_rewards_asks_  ids ,
   checkers__: is_checkers_id , 
   rewards_asked__ : is_   asked_rewards_integer ,
   rewards_checks_ : is_send_backs_sorted } , 
