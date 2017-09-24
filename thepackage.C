@@ -18,25 +18,25 @@ var dbs ={
    },  '
 at }}},   (((())))) ,
 =   instance_of_wallets_id_that_has_checkers_id{
- :{:ids  _
-,      :{  wallets_id _ids    :reencryption_asks_ids,
-wallets_id  ids  integer_id is_ reencrypted_ asks_ids : reencryption_asks_ids_no   , }}} ,
+ :{:ids  
+,      :{  wallets_ids__  id     :reencryption_asks_ids,
+wallets_id  ids  integer_id  reencrypted_ asks_ids : is_reencryption_asks_ids_no   , }}} ,
   }}},{
  ledgers :{ 
 wallets_ledger:{ at_at_ , at_,
  crypteds ,  
- asks_id    ,
+ asks_  id ,
 
    place is _ place latLng :{ lng : is_lng, lat : is_lat } , _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
-   checkers_ids : is , : ,asks_track : is_track_integer ,
-   asks_level asks : is_asks_level integer, asks_letter__: is_asks_letter ,  
+ integer  checkers_  ids : is , : ,asks_track : is_track_integer ,
+ needed_  asks_level asks : is_asks_level integer, asks_letter__: is_asks_letter ,  
  
-()needed_(integer)crypteds_ of_integer__
+()()crypteds_ of_integer__
  
- crypteds:{ 
-  decrypted__ : new String ( bunch_of_o_and_one ) ,   keys_for_the_crypted_not_the_reencrypted__ ,}}} used
-   cryptos_used :{ to_crypted__ :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted ,  :{}}},   crypted__  }, 
-   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{__:{ cryptos_used_id_to_crypted_  keys_for_the_crypted_not_the_reencrypted__  cryptos_used_id_to_crypted_ cryptos crypted_minus semi,    _is_  }, 
+ crypteds:{ __cryptos_used_id_to_crypted_minus__
+  decrypted__ : new String ( bunch_of_o_and_one ) ,   keys_for_the_   ,}}} used  not_the_
+   cryptos_used :{ to_crypted  :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ :  crypted_ }, 
+   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{ cryptos_used_id_to_crypted_minus__ :  {{}}},reencrypted__  keys_for_the_crypted_not_the_reencrypted__  cryptos_used_id_to_crypted_ cryptos crypted_minus semi,    _is_  }, 
 facultative
  decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
   reencrypted__:   cryptos_used__ : reencrypted_  cryptos_used),  : keys_for_the_crypted_not_the_reencrypted__ :   } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
@@ -102,8 +102,8 @@ asks_level_      sending_backs      ,level_  level_ _send_backs_sorted
 
 
 
-   prompted_  is = ' <button      ="methods.prompt_" id ="this.name.constructor"    ="" > </button>'     ;
-  }; button ,' ', ', ,' , '()((=")(name)name. constructor.(',''
+   prompted_is   = ' <button      ="methods.prompt_" id ="this.name.constructor"     > </button>'     ;
+ ="" }; button ,' ', ', ,' , '()((=")(name)name. constructor.(',''
 
   for ( var instance_of_ of instance_of__ ) {      
 
@@ -118,37 +118,37 @@ asks_level_      sending_backs      ,level_  level_ _send_backs_sorted
 
 , ' </div> ' 
 , ' <div >' 
+for ( ; instance_of_ . name .   ( - 1 ) != '__' ; )
+{,);,}}
 
  ,   (   instance_of_  ) 
 
 
 , ' </div> '
 
-,   ' <input type="radio"    ="   " > </p> ' ] .     ( ''); };
+, ' <input type="radio"    =" onclick  " > </p> ' ] . join ( ''); };
 
-for ( ; instance_of_ . name .  ,=" ( -1     ) = "__" ;){ 
+for ( ; instance_of_ . name .    ( -1 ) = "__" ;){ 
 
-prompted = + [ ' <p> '
+prompted = + [ ' <p onHover onhover''> '
 ,(   instance_of_. name. constructor  ) ,
  , '   '
 , ' <input type="text" value="" placeholder ="'
 ,(  instanc1of_  ) ,
 , '" id= "'
-,
-(  instance_of_.    '" value="" > '
-, ' </p> '
+,(instance_of_.)
+ 
+,  '"value=""></p>', 
  ].join ( '' );
 }
+,
 
-for ( ; instance_of_ . name .   ( -  1 ) != '__' ; )
-{
-
-)1 ,);,}} methods . prompt_ =
+    methods . prompt_ =
 
  methods. click = ( 'instance_of__ = instance_of_ . constructor '));
 
-for( ;     ,     ("")   "_" ; ) {
-} ,
+for( ;       1   (  ""  ) =   "_" ; ) {
+} ,"
 
 
 
