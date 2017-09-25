@@ -1,4 +1,4 @@
- var methods ={} ;methods.prototype. Object .prototype .is_    ;null ,  ,, methods
+ var methods={}  ;methods.prototype. Object .prototype .is_  =  {};  null ,  ,, methods
 
  . this_is
 = for
@@ -214,26 +214,26 @@ used_guides:{
  wallets_used_versions__ : is_wallets_used_version } ,
   needs__ : is_plain ,
   tasks__: is_plain } ,
-constancy_asks _ used:asks{ ledger _ask _ constancy
+constancy_asks_ :{ _used_version _ used:asks{ ledger  ask  constancy
  
  cryptos_used_guide :{ 
   cryptos_used :{ 
-    cryptos_used_ids__: is_cryptos_used_id , cryptos  _used_  __: is_crypto_used_version } ,
+    cryptos_used_ids__ : is_cryptos_used_id , cryptos  _used_versions__: is_crypto_used_version } ,
   needs__ : is_plain ,
-  tasks__:{: _ is_plain } ,
+  tasks__: is_plain } , 
 
-dbs_used_guide : {    
- db :{   _used  _ids__: is_db_used_id ,  _used_versions_   : is_db_used_version } ,
+dbs_used_guide :{     
+ db_used   :{   _used_ids__ : is_db_used_id ,  _used_versions__ : is_db_used_version } ,
  needs__ : is_plain ,
- tasks__: is_plain },
+ tasks__: is_plain } ,
 datas_used_guide :{ 
-datas:{   _used_ids__ : is_  _used_id ,  _used_versions  __ : is_  _used_  } ,
+datas_used :{   _used_ids__ : is_  _used_id ,  _used_versions__ : is_    _used_version  } ,
  needs__: is_plain , 
-  uis :{   _used_ids__     mean_   ui_used_id ,   _used_  __:   _ui_used_version }}} ,
+  uis_used :{ ui_used_ids__   _ui_used_id , ui_used_versions__:   _ui_used_version }}} ,
 plain,;}mean_asked_rewards :{   
-  mean_asked_rewards_ids : is_mean_   _id , 
+  mean_asked_rewards_ids : is_mean_ _  _id , mean_
   mean_   asked_rewards : is_mean_ask_rewards_integer } 
-ids mean_ids__id asked_rewards_  
+ids mean_ids__id asked_rewards_ _ __ _
 
 
 
