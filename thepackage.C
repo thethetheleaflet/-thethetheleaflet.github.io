@@ -8,8 +8,8 @@ var dbs ={
 
 
 
-
- asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ }} , current_ : current_ ,low_id:{ is_low_id   ,
+_
+ asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ }} , current_ : current  ,low_id:{ is_low_id   ,
    checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_id , asks_track_ : Number ( asks_track_integer ) ,
    asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} ,   
@@ -27,7 +27,7 @@ wallets_ledger:{ at_at_ , at_,
  crypteds ,  
  asks_ids ,
       ,}   
-   place is  place latLng :{ lng : is_lng, lat  is_lat } _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
+  place is  place latLng :{ lng : is_lng, lat  is_lat } _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
  integer  checkers_ of_integer__ keys_for_the_  is , __ ,asks_track  is_track_integer ,
  needed_crypteds_ id asks_level asks : _is_asks_level integer, asks_letter__ : is_asks_letter 
  
@@ -37,44 +37,44 @@ wallets_ledger:{ at_at_ , at_,
   decrypted__ : new String ( bunch_of_o_and_one ) ,         
    cryptos_used :{ to_crypted :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ : crypted }, :
    to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{  :  cryptos_used_id_to_crypted_minus__   cryptos_used_id_to_crypted_minus__ :        {{}}},reencrypted__  keys_for_the_crypted_not_the_reencrypted__  cryptos_used_id_to_crypted_ cryptos crypted_minus semi,    _is_  }, 
-facultative
+facultative used_id_to
  decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
-  reencrypted__: reencrypted_   cryptos_used__ : reencrypted_cryptos_used    ,  : keys_for_the_crypted_not_the_reencrypted__    } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
-""guide:(:guide {  ,keys_for_the_crypted_not_the_reencrypted__  used_id_to,:   )
- asks_ids_ ) ''= (,binary_buffer .}((
- checkers_checks_ledger :{        
+  reencrypted__:   reencrypted_   cryptos_used__ : reencrypted_cryptos_used ,keys_for_the_crypted_not_the_reencrypted__  keys_for_the_crypted_not_the_reencrypted__ :     } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
+"":(: guide {.}(( ,: 
+guide asks_ids  ) ''= (,binary_buffer 
+ checkers_checks_ledger :{ ,)        
    
- checks_asks :{ isplain__ : the checks_   things_that_is ,    
+ checks_asks :{ isplain__ : the_ checks_   things_that_is ,    
    instanceofdb : {     ( checks_instance_of_dbs_integer ) :{ __:{ checks_instance_of_dbs } } }, 
    checks_ids_ :  checks_asks_id , 
    checks_ : send_backs_sorted }, 
-
+  
  
 constancy_ledger :{ 
-     
+ methods    
 constancy_asks_ids_ : constancy_asks_id ,    
 constancy_checks_ : send_backs_sorted ,  
 unconstancy_issue__ : issue , 
-constancy_asks :{ isplain__ : the_constancy_asks_id_things_that_is , instanceofdbs:{ Number ( constancy_asks_  _   _integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
+constancy_asks :{ isplain__ : the_constancy_   things_that_is , instanceofdbs:{ Number ( constancy_asks_  _   _integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
+  constancy_asks_instance_of_dbs_integer
+rewards_asks_ledger : { rewards_asks_ids__ : rewards_asks_id , checkers__ : checkers_id , rewards_asked__ : Number ( checker_asked_rewards_integer )  },
+mean_asked_rewards :{ mean_asks_ask_ids : mean_asks_id , mean_asked_rewards : Number ( mean_asked_rewards_integer ) } } },     
   
-rewards_asks_ledger : { rewards_asks_ids__ : rewards_asks_id , checkers__ : checkers_id , rewards_asked__ : Number   ( checker_asked_rewards_integer )  },
-mean_asked_rewards :{ mean_ask_ids : mean_asks_id , mean_asked_rewards : Number ( mean_asked_rewards_integer ) } } },     
-  
-constancy_asks_instance_of_dbs_integer
+
   
  used_guides:{
 checkers_used_guide : {	checkers_used:{  _   :{ '="' } ,ids checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
 wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_    } , needs_:{} , tasks:{} },
 cryptos_used_guide : { cryptos_used: { cryptos_used_ids__ : cryptos  _used_id    cryptos_used_versions__ : cryptos_used_   }, needs_:{} , tasks_ :{} },
-        _used_guide :{ db_used: { dbs_used_ids__ :   _used_id ,   _used_versions__ :  _used_version } , needs_:{}_ids,ids_}}} tasks_ :{} },
-datas_udsed_guide : { datas_used: { ids  :   _id } ,needs: {}, uis    :{   _used_ids__   ui_used_id ,    _used_versions__     ui_used_version }} , 
-{
-() ids  is_backs_keys{ }
-guides {
+        _used_guide :{ db_used: { dbs_used_ids__ :   _used_id ,   _used_versions__ :     _used_version } , needs_:{}_ids,ids_}}} tasks_ :{} },
+datas_udsed_guide : { datas_used:{ _ _ ids__ :  _  _id   __  _ id } ,needs: {}, uis :{  _used_ids__   _ui_used_id ,    _used_versions__     ui_used_version }} , 
 
-       _guide : { db_package_:  the_db_object  ,tasks_:{} },
-checking_guide : { checking_package_: the_checking_package_and_coded_tasks , tasks_: { } },
-      _guide : {       _package_:   the_sending_package_and_coded_tasks , tasks_:{ } },
+(){ ids is_backs_keys{ } _ _and_the_ and_and_ _and_coded_tasks
+guides { 
+
+       _guide : { db_package_: the_db_object ,tasks_:{} },
+checking_guide : { checking_package_: the_checking_package_and_coded_tasks , tasks_:{ { coded_tasks__  coded_tasks   } },
+      _guide : {         _package_: the_sending_package_and_coded_tasks , tasks_:     coded_tasks__    coded_tasks  } },
  limits_guide : { needs_:{ } , limits_:{  __   } },
 rewards_guide : { needs_:{ } ,tasks_:{ } }}},}, 
 
@@ -103,9 +103,9 @@ asks_level_ level send_backs_sorted sending_backs ,level _ level_ _send_backs_so
 
 
    prompted_is = ' <button      ="    (  methods.prompt_  )" id ="this.name.constructor" > </button>'     ;
- __  ="" }; button ,'', , ', .'  ((=")(name)name constructor.'(','',
+ __  =instance_of_  ""var  button ,'', , ', .'  ((=")(name)name constructor.'(','',
 
-  for ( var instance_of_ of instance_of__ ) {      
+  for ( }  ;  of instance_of__ ) {      
 
   for ( ; instance_of_ . name .       ( -  ;  1  )    = "_" ; ) {
 for ( ; instance_of_ . name .   ( - 1 ) != '__' ; )
@@ -142,16 +142,16 @@ prompted = + [ ' <p onHover onhover > '
  ].join ( '' );
 }
 ,
-
-    methods . prompt_ =
-
- methods. click = ( 'instance_of__ =    instance_of_ . constructor '));
-
-for( ;       1   (    ) =   "_" ; ) {
-} ,   "   '' 
+"
+    methods . prompt_ =    ''
 
 
+for( ;   1   (    ) = "_" ; ) {
+} ,       
 
+
+ methods. click = '     ( instance_of__ = instance_of_ . constructor  )'  );
+    
 prompted
 
    =   '<button id="'
@@ -175,7 +175,7 @@ prompted
     ): ;
 
 } , sort_ips_that_the_capacity_allows_according_to_the_checking_ :{
- file   {
+ file {
 for (    = 0;   < count;  ++) {
 for
   }
@@ -184,7 +184,7 @@ for
 for (    = 0;   < count;  ++) { console  log
 ( '="'  ssh'="''="'  porthere'="'ip remote
 ();,, ( ) :
-();  ,(instance )  ;,},}}
+();  ,( instance )  ;,},}}
 , methods.receiving_asks:{
 
 
