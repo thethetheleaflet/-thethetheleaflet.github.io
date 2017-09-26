@@ -16,37 +16,37 @@ var dbs ={
  at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
   }}}}}}, 
    },  '
-at }}},   (((())))) ,
+at }}}, _  (((())))) ,
 =   instance_of_wallets_id_that_has_checkers_id{
  :{:ids  
-,      :{  wallets_ids__  id     :reencryption_asks_ids,
-wallets_id  ids  integer_id  reencrypted_ asks_ids : is_reencryption_asks_ids_no   , }}} ,
-  }}},{
+,   ()()id   :{  wallets_ids  __  id  not_the_ used  :reencryption_asks_ids,
+wallets_ids    integer_id  reencrypted_ asks_ids : is_reencryption_asks_ids_no   , }}} ,
+  }}},{}}
  ledgers :{ 
 wallets_ledger:{ at_at_ , at_,
  crypteds ,  
- asks_  id ,
-
-   place is _ place latLng :{ lng : is_lng, lat : is_lat } , _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
- integer  checkers_  ids : is , : ,asks_track : is_track_integer ,
- needed_  asks_level asks : is_asks_level integer, asks_letter__: is_asks_letter ,  
+ asks_ids   ,
+,}   
+   place is  place latLng :{ lng : is_lng, lat : is_lat } , _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
+ integer  checkers_ of_integer__ keys_for_the_ : is , : ,asks_track : is_track_integer ,
+ needed_crypteds_ id asks_level asks : is_asks_level integer, asks_letter__: is_asks_letter ,  
  
-()()crypteds_ of_integer__
  
- crypteds:{ __cryptos_used_id_to_crypted_minus__
-  decrypted__ : new String ( bunch_of_o_and_one ) ,   keys_for_the_   ,}}} used  not_the_
-   cryptos_used :{ to_crypted  :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ :  crypted_ }, 
-   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{ cryptos_used_id_to_crypted_minus__ :  {{}}},reencrypted__  keys_for_the_crypted_not_the_reencrypted__  cryptos_used_id_to_crypted_ cryptos crypted_minus semi,    _is_  }, 
+ 
+ crypteds:{ 
+  decrypted__ : new String ( bunch_of_o_and_one ) , __cryptos_used_id_to_crypted_minus__        
+   cryptos_used :{ to_crypted :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ :  crypted  _ }, 
+   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{ cryptos_used_id_to_crypted_minus__ :        {{}}},reencrypted__  keys_for_the_crypted_not_the_reencrypted__  cryptos_used_id_to_crypted_ cryptos crypted_minus semi,    _is_  }, 
 facultative
  decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
-  reencrypted__:   cryptos_used__ : reencrypted_  cryptos_used),  : keys_for_the_crypted_not_the_reencrypted__ :   } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
-""guide:(:guide checkers{  ,keys_for_the_crypted_not_the_reencrypted__  used_id_to,
-reencrypted_ asks_ids_ ) ''= (,binary_buffer .}((
- _checks_ledger :{   checks     
+  reencrypted__: reencrypted_   cryptos_used__ : reencrypted_cryptos_used    ,  : keys_for_the_crypted_not_the_reencrypted__    } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
+""guide:(:guide {  ,keys_for_the_crypted_not_the_reencrypted__  used_id_to,:   )
+ asks_ids_ ) ''= (,binary_buffer .}((
+ checkers_checks_ledger :{        
    
- checks_asks :{ isplain__ : the_   things_that_is ,    
+ checks_asks :{ isplain__ : the checks_   things_that_is ,    
    instanceofdb : {     ( checks_instance_of_dbs_integer ) :{ __:{ checks_instance_of_dbs } } }, 
-   checks_ids_ :  checks   _asks_id , 
+   checks_ids_ :  checks_asks_id , 
    checks_ : send_backs_sorted }, 
 
  
@@ -55,19 +55,19 @@ constancy_ledger :{
 constancy_asks_ids_ : constancy_asks_id ,    
 constancy_checks_ : send_backs_sorted ,  
 unconstancy_issue__ : issue , 
-constancy_asks :{ isplain__: the_constancy_asks_id_things_that_is , instanceofdbs:{ Number ( constancy_asks_integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
+constancy_asks :{ isplain__ : the_constancy_asks_id_things_that_is , instanceofdbs:{ Number ( constancy_asks_  _   _integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
   
 rewards_asks_ledger : { rewards_asks_ids__ : rewards_asks_id , checkers__ : checkers_id , rewards_asked__ :    ( checker_asked_rewards_integer )  },
-mean_asked_rewards :{ mean_ask_ids : mean_asks_id , mean_asked_rewards : Number ( mean_asked_rewards_integer ) } } },  ids__   
+mean_asked_rewards :{ mean_ask_ids : mean_asks_id , mean_asked_rewards : Number ( mean_asked_rewards_integer ) } } },     
   
 
   
  used_guides:{
-checkers_used_guide : {	checkers_used:{  _   :{ '="' } ,checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
+checkers_used_guide : {	checkers_used:{  _   :{ '="' } ,ids checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
 wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_    } , needs_:{} , tasks:{} },
 cryptos_used_guide : { cryptos_used: { cryptos_used_ids__ : cryptos  _used_id    cryptos_used_versions__ : cryptos_used_   }, needs_:{} , tasks_ :{} },
-        _used_guide :{ db_used: { dbs_used_ids__ :   _used_id ,   _used_versions__ :  _used_version } , needs_:{},}}} tasks_ :{} },
-datas_udsed_guide : { datas_used: { ids  :   _id } ,needs: {}, uis :{   _used_ids__  ids_ ui_used_id ,  _ids  __     ui_used_version }} , 
+        _used_guide :{ db_used: { dbs_used_ids__ :   _used_id ,   _used_versions__ :  _used_version } , needs_:{}_ids,ids_}}} tasks_ :{} },
+datas_udsed_guide : { datas_used: { ids  :   _id } ,needs: {}, uis    :{   _used_ids__   ui_used_id ,    _used_versions__     ui_used_version }} , 
 {
 () ids  {}is_backs_keys{ }
 guides {
@@ -77,19 +77,19 @@ checking_guide : { checking_package_: the_checking_package_and_coded_tasks , tas
       _guide : {       _package_:   the_sending_package_and_coded_tasks , tasks_:{ } },
  limits_guide : { needs_:{ } , limits_:{} },
 rewards_guide : { needs_:{ } ,tasks_:{ } }}},}, __
-
+constancy_asks_instance_of_dbs_integer
 
  checking_package
-()constancy_asks_instance_of_dbs_integer
+is_the_sending_package_and_coded_tasks
 
-send_backs_sorted  is_the_sending_package_and_coded_tasks
+send_backs_sorted  
  :{ asks_ids ,asks_level_checks  }
 ,levels:{  
- asks_level_   _send_backs_level_      ,   approval   , send_backs_sorted  integer } ,
+ asks_level_   _send_backs_level_ , approval , send_backs_sorted integer() } ,
 } asks_level_   , _send_backs_level_sorted  
 ,level_   level__ send_backs_sorted
-asks_level_      sending_backs      ,level_  level_ _send_backs_sorted
-,,level__send_backs_sorted
+asks_level_ level send_backs_sorted sending_backs ,level _ level_ _send_backs_sorted
+,,
 }}
  } } }}
 
@@ -102,40 +102,40 @@ asks_level_      sending_backs      ,level_  level_ _send_backs_sorted
 
 
 
-   prompted_is   = ' <button      ="methods.prompt_" id ="this.name.constructor"     > </button>'     ;
- ="" }; button ,' ', ', ,' , '()((=")(name)name. constructor.(',''
+   prompted_is = ' <button      ="    (  methods.prompt_  )" id ="this.name.constructor" > </button>'     ;
+ __  ="" }; button ,'', , ', .'  ((=")(name)name constructor.'(','',
 
   for ( var instance_of_ of instance_of__ ) {      
 
-  for ( ; instance_of_ . name .       ( -;  1  ) = "_" ; ) {
+  for ( ; instance_of_ . name .       ( -  ;  1  )    = "_" ; ) {
+for ( ; instance_of_ . name .   ( - 1 ) != '__' ; )
+{,);,}}
 
   prompted = + [ ' <p> '  
 
 ,   ' <div >'
 
-      ,       (  instance_of_. name. constructor )  , 
+ ,       (  instance_of_. name. constructor )  , 
 
 
 , ' </div> ' 
 , ' <div >' 
-for ( ; instance_of_ . name .   ( - 1 ) != '__' ; )
-{,);,}}
 
  ,   (   instance_of_  ) 
 
 
 , ' </div> '
 
-, ' <input type="radio"    =" onclick  " > </p> ' ] . join ( ''); };
+, ' <input type="radio"    =" onclick  " > </p> ' ] . join ( '' ); };
 
-for ( ; instance_of_ . name .    ( -1 ) = "__" ;){ 
+for ( ; instance_of_ . name .    ( -1 )     = "__" ;){ 
 
-prompted = + [ ' <p onHover onhover''> '
+prompted = + [ ' <p onHover onhover > '
 ,(   instance_of_. name. constructor  ) ,
  , '   '
-, ' <input type="text" value="" placeholder ="'
-,(  instanc1of_  ) ,
-, '" id= "'
+, ' <input type="text" value=""   ""  placeholder ="'
+,(           ) ,
+, '" id= "'  
 ,(instance_of_.)
  
 ,  '"value=""></p>', 
@@ -145,10 +145,10 @@ prompted = + [ ' <p onHover onhover''> '
 
     methods . prompt_ =
 
- methods. click = ( 'instance_of__ = instance_of_ . constructor '));
+ methods. click = ( 'instance_of__ =    instance_of_ . constructor '));
 
-for( ;       1   (  ""  ) =   "_" ; ) {
-} ,"
+for( ;       1   (    ) =   "_" ; ) {
+} ,   "   '' 
 
 
 
