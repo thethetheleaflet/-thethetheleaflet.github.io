@@ -14,29 +14,29 @@ var dbs ={
    asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} ,   
  at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
-  }}}}}}, 
-   },  '
-at }}}, _  (((())))) ,
+  }}}}}}, ==
+   },  '==
+at }}}, _ != (((())))) ,!=
 =   instance_of_wallets_id_that_has_checkers_id{
  :{:ids  
-,   ()()id   :{  wallets_ids  __  id  not_the_ used  :reencryption_asks_ids,
-wallets_ids    integer_id  reencrypted_ asks_ids : is_reencryption_asks_ids_no   , }}} ,
-  }}},{}}
+,   ()()id   :{  wallets_ids__  :  id  not_the_ used  :reencryption_asks_ids,
+wallets_ids  ,  integer_id : reencrypted_ asks_ids : is_reencryption_asks_ids_no   , }}} ,
+  }}},{}},
  ledgers :{ 
 wallets_ledger:{ at_at_ , at_,
  crypteds ,  
- asks_ids   ,
-,}   
-   place is  place latLng :{ lng : is_lng, lat : is_lat } , _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
- integer  checkers_ of_integer__ keys_for_the_ : is , : ,asks_track : is_track_integer ,
- needed_crypteds_ id asks_level asks : is_asks_level integer, asks_letter__: is_asks_letter ,  
+ asks_ids ,
+      ,}   
+   place is  place latLng :{ lng : is_lng, lat  is_lat } _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
+ integer  checkers_ of_integer__ keys_for_the_  is , __ ,asks_track  is_track_integer ,
+ needed_crypteds_ id asks_level asks : _is_asks_level integer, asks_letter__ : is_asks_letter 
  
  
  
  crypteds:{ 
-  decrypted__ : new String ( bunch_of_o_and_one ) , __cryptos_used_id_to_crypted_minus__        
-   cryptos_used :{ to_crypted :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ :  crypted  _ }, 
-   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{ cryptos_used_id_to_crypted_minus__ :        {{}}},reencrypted__  keys_for_the_crypted_not_the_reencrypted__  cryptos_used_id_to_crypted_ cryptos crypted_minus semi,    _is_  }, 
+  decrypted__ : new String ( bunch_of_o_and_one ) ,         
+   cryptos_used :{ to_crypted :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ : crypted }, :
+   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{  :  cryptos_used_id_to_crypted_minus__   cryptos_used_id_to_crypted_minus__ :        {{}}},reencrypted__  keys_for_the_crypted_not_the_reencrypted__  cryptos_used_id_to_crypted_ cryptos crypted_minus semi,    _is_  }, 
 facultative
  decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
   reencrypted__: reencrypted_   cryptos_used__ : reencrypted_cryptos_used    ,  : keys_for_the_crypted_not_the_reencrypted__    } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
@@ -57,10 +57,10 @@ constancy_checks_ : send_backs_sorted ,
 unconstancy_issue__ : issue , 
 constancy_asks :{ isplain__ : the_constancy_asks_id_things_that_is , instanceofdbs:{ Number ( constancy_asks_  _   _integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
   
-rewards_asks_ledger : { rewards_asks_ids__ : rewards_asks_id , checkers__ : checkers_id , rewards_asked__ :    ( checker_asked_rewards_integer )  },
+rewards_asks_ledger : { rewards_asks_ids__ : rewards_asks_id , checkers__ : checkers_id , rewards_asked__ : Number   ( checker_asked_rewards_integer )  },
 mean_asked_rewards :{ mean_ask_ids : mean_asks_id , mean_asked_rewards : Number ( mean_asked_rewards_integer ) } } },     
   
-
+constancy_asks_instance_of_dbs_integer
   
  used_guides:{
 checkers_used_guide : {	checkers_used:{  _   :{ '="' } ,ids checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
@@ -69,17 +69,17 @@ cryptos_used_guide : { cryptos_used: { cryptos_used_ids__ : cryptos  _used_id   
         _used_guide :{ db_used: { dbs_used_ids__ :   _used_id ,   _used_versions__ :  _used_version } , needs_:{}_ids,ids_}}} tasks_ :{} },
 datas_udsed_guide : { datas_used: { ids  :   _id } ,needs: {}, uis    :{   _used_ids__   ui_used_id ,    _used_versions__     ui_used_version }} , 
 {
-() ids  {}is_backs_keys{ }
+() ids  is_backs_keys{ }
 guides {
 
        _guide : { db_package_:  the_db_object  ,tasks_:{} },
 checking_guide : { checking_package_: the_checking_package_and_coded_tasks , tasks_: { } },
       _guide : {       _package_:   the_sending_package_and_coded_tasks , tasks_:{ } },
- limits_guide : { needs_:{ } , limits_:{} },
-rewards_guide : { needs_:{ } ,tasks_:{ } }}},}, __
-constancy_asks_instance_of_dbs_integer
+ limits_guide : { needs_:{ } , limits_:{  __   } },
+rewards_guide : { needs_:{ } ,tasks_:{ } }}},}, 
 
- checking_package
+
+ checking_package{}
 is_the_sending_package_and_coded_tasks
 
 send_backs_sorted  
