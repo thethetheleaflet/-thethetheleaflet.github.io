@@ -14,44 +14,44 @@ _
    asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} ,   
  at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
-  }}}}}}, ==
-   },  '==
-at }}}, _ != (((())))) ,!=
-=   instance_of_wallets_id_that_has_checkers_id{
+  }}}}}}, 
+   },  
+at_ }}},   (((())))) 
+= instance_of_wallets_id_that_has_checkers_id{
  :{:ids  
-,   ()()id   :{  wallets_ids__  :  id  not_the_ used  :reencryption_asks_ids,
-wallets_ids  ,  integer_id : reencrypted_ asks_ids : is_reencryption_asks_ids_no   , }}} ,
-  }}},{}},
+,   ()()id not_the_reencrypted  :{  wallets_ids__  :  id  not_the_ used  :reencryption_asks_ids,
+wallets_ids__  binary_buffer,  integer_id : reencrypted_ asks_ids : is_reencryption_asks_ids_no   , }}} ,
+  }}},{}}, 
  ledgers :{ 
 wallets_ledger:{ at_at_ , at_,
  crypteds ,  
  asks_ids ,
-      ,}   
-  place is  place latLng :{ lng : is_lng, lat  is_lat } _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
- integer  checkers_ of_integer__ keys_for_the_  is , __ ,asks_track  is_track_integer ,
+      , }   ,
+  place is  place latLng :{ lng : is_lng lat  is_lat } _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
+ integer  checkers_ of_integer__ keys_for_the_  is ,  ,asks_track  is_track_integer ,
  needed_crypteds_ id asks_level asks : _is_asks_level integer, asks_letter__ : is_asks_letter 
  
- 
- 
- crypteds:{ 
-  decrypted__ : new String ( bunch_of_o_and_one ) ,         
-   cryptos_used :{ to_crypted :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ : crypted }, :
-   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{  :  cryptos_used_id_to_crypted_minus__   cryptos_used_id_to_crypted_minus__ :        {{}}},reencrypted__  keys_for_the_crypted_not_the_reencrypted__  cryptos_used_id_to_crypted_ cryptos crypted_minus semi,    _is_  }, 
+ keys_for
+ '
+ crypteds:{  reencrypted__  :{  !=
+  decrypted__ : new String  ( bunch_of_o_and_one ) ,         
+   cryptos_used :{ to_crypted :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ : crypted }, cryptos_used_id_to_crypted_minus
+   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{ cryptos_used_id_to_crypted_minus__ : cryptos_used_id_to_crypted_minus , _   _ crypted_    __      ,  _semi is_crypted_     }, 
 facultative used_id_to
  decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
-  reencrypted__:   reencrypted_   cryptos_used__ : reencrypted_cryptos_used ,keys_for_the_crypted_not_the_reencrypted__  keys_for_the_crypted_not_the_reencrypted__ :     } } } }, instance_of_wallets_id_that_has_checkers_id__ :      , lowdollars__:{} } ,
-"":(: guide {.}(( ,: 
-guide asks_ids  ) ''= (,binary_buffer 
- checkers_checks_ledger :{ ,)        
+  reencrypted__: { reencrypted_   cryptos_used__ : reencrypted_cryptos_used ,keys_for_the_crypted_not_the_reencrypted__: keys_for_the_crypted_not_the_reencrypted__      } } } }, instance_of_wallets_id_that_has_checkers_id__ :  cryptos    , lowdollars__:{} } ,
+    checks_ guide }}} 
+    guide ) (, 
+ checkers_checks_ledger :{ 
    
- checks_asks :{ isplain__ : the_ checks_   things_that_is ,    
+ checks_asks :{ isplain__ : the_  things_that_is , 
    instanceofdb : {     ( checks_instance_of_dbs_integer ) :{ __:{ checks_instance_of_dbs } } }, 
-   checks_ids_ :  checks_asks_id , 
-   checks_ : send_backs_sorted }, 
-  
+   checks_ids_ : checks_asks_id , ''={.}((:,) 
+   checks_ : send_backs_sorted } ==, asks_ids ,: ,!= __  
+  == "":(:
  
 constancy_ledger :{ 
- methods    
+ methods 
 constancy_asks_ids_ : constancy_asks_id ,    
 constancy_checks_ : send_backs_sorted ,  
 unconstancy_issue__ : issue , 
