@@ -10,38 +10,38 @@ var dbs ={
 
 _
  asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ }} , current_ : current  ,low_id:{ is_low_id   ,
-   checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_id , asks_track_ : Number ( asks_track_integer ) ,
-   asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
- at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} ,   
- at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
+  checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_id , asks_track_ : Number ( asks_track_integer ) ,
+  asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
+ at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} , 
+at_ :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
   }}}}}}, 
    },  
-at_ }}},   (((())))) 
-= instance_of_wallets_id_that_has_checkers_id{
- :{:ids  
-,   ()()id not_the_reencrypted  :{  wallets_ids__  :  id  not_the_ used  :reencryption_asks_ids,
-wallets_ids__  binary_buffer,  integer_id : reencrypted_ asks_ids : is_reencryption_asks_ids_no   , }}} ,
-  }}},{}}, 
+ }}}, at  (((())))) '
+= instance_of_wallets_id_that_has_checkers_used_  id : 
+ :{ ids 
+,  : ()()id not_the_reencrypted :{ wallets_ids__ :  _id not_the_reencryption_asks_ids ,of_integer__
+ wallets_ids__asks  _is_asks_level   keys_for_the_binary_buffer, __ keys_for integer _id : reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
+  }}},{}}, {
  ledgers :{ 
 wallets_ledger:{ at_at_ , at_,
- crypteds ,  
- asks_ids ,
-      , }   ,
-  place is  place latLng :{ lng : is_lng lat  is_lat } _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
- integer  checkers_ of_integer__ keys_for_the_  is ,  ,asks_track  is_track_integer ,
- needed_crypteds_ id asks_level asks : _is_asks_level integer, asks_letter__ : is_asks_letter 
+ crypteds , 
+ asks_ids , 
+       } ,
+  place is  place latLng :{ lng : is_lng lat is_lat } _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
+ integer is, , needed_crypteds_ ,asks_track  is_track_integer ,
+  id asks_level : integer, asks letter : is_asks_letter 
  
- keys_for
- '
- crypteds:{  reencrypted__  :{  !=
+ instance_of_wallets_id_that_has_checkers_id__
+ 
+ crypteds:{ 
   decrypted__ : new String  ( bunch_of_o_and_one ) ,         
-   cryptos_used :{ to_crypted :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ : crypted }, cryptos_used_id_to_crypted_minus
-   to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{ cryptos_used_id_to_crypted_minus__ : cryptos_used_id_to_crypted_minus , _   _ crypted_    __      ,  _semi is_crypted_     }, 
-facultative used_id_to
+  cryptos_used :{ to_crypted :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ : crypted } , cryptos_used_id_to_crypted_minus_ __
+ reencrypted__checkers_:{ to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{ cryptos_used_id_to_crypted_minus__ : cryptos_used_id_to_crypted_minus ,  _  _crypted__      ,  _semi_ is_ crypted }, 
+used_id_to   facultative 
  decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
-  reencrypted__: { reencrypted_   cryptos_used__ : reencrypted_cryptos_used ,keys_for_the_crypted_not_the_reencrypted__: keys_for_the_crypted_not_the_reencrypted__      } } } }, instance_of_wallets_id_that_has_checkers_id__ :  cryptos    , lowdollars__:{} } ,
-    checks_ guide }}} 
-    guide ) (, 
+  reencrypted__: { reencrypted_cryptos_used__ : reencrypted_cryptos_used ,keys_for_the_crypted_not_the_reencrypted__: keys_for_the_crypted_not_the_reencrypted } } } },  :  cryptos    , lowdollars__:{} } ,
+      }}} 
+!= guide (checks_ ,) guide  
  checkers_checks_ledger :{ 
    
  checks_asks :{ isplain__ : the_  things_that_is , 
@@ -94,7 +94,7 @@ asks_level_ level send_backs_sorted sending_backs ,level _ level_ _send_backs_so
  } } }}
 
 
-,. asking: {
+,   . asking: {
  prompt_user_for_instance_of: {
 
 
@@ -102,14 +102,14 @@ asks_level_ level send_backs_sorted sending_backs ,level _ level_ _send_backs_so
 
 
 
-   prompted_is = ' <button      ="    (  methods.prompt_  )" id ="this.name.constructor" > </button>'     ;
- __  =instance_of_  ""var  button ,'', , ', .'  ((=")(name)name constructor.'(','',
-
-  for ( }  ;  of instance_of__ ) {      
-
-  for ( ; instance_of_ . name .       ( -  ;  1  )    = "_" ; ) {
+ prompted_is = ' <button ="    (  methods.prompt_  )" id ="this.name.constructor" > </button>'     ;
+ __ =instance_of_ var button ,'', "" , ', .' ((=")(name)name constructor.'(','',
+},
+ for ( ; of instance_of__ ; ) { 
+},  
+ for ( ; instance_of_ . name .       ( -  ;  1  )    = "_" ; ) {
 for ( ; instance_of_ . name .   ( - 1 ) != '__' ; )
-{,);,}}
+{}   )  
 
   prompted = + [ ' <p> '  
 
