@@ -102,41 +102,41 @@ asks_level_ level send_backs_sorted sending_backs ,level _ level_ _send_backs_so
 
 
 
- prompted_is = ' <button ="    (  methods.prompt_  )" id ="this.name.constructor" > </button>'     ;
- __ =instance_of_ var button ,'', "" , ', .' ((=")(name)name constructor.'(','',
-},
- for ( ; of instance_of__ ; ) { 
+ prompted_is = ' <button ="    ( methods.prompt_ )" id ="this.name.constructor" > </button>'     ;
+var instance_of_ = instance_of__ .     ( =" ) , ''button= ,'', "" ,  ( (name)name constructor.'(','',
+}, 
+ for(; __ of ; ){ 
 },  
- for ( ; instance_of_ . name .       ( -  ;  1  )    = "_" ; ) {
+ for ( ; instance_of_ . name .  childNodes      ( -  ;  1  )     "_" ; ) {
 for ( ; instance_of_ . name .   ( - 1 ) != '__' ; )
-{}   )  
+{}   
 
   prompted = + [ ' <p> '  
 
-,   ' <div >'
+,   ' <div> '
 
- ,       (  instance_of_. name. constructor )  , 
+ ,       ( instance_of_. name. constructor ) , 
 
-
+ 
 , ' </div> ' 
-, ' <div >' 
-
- ,   (   instance_of_  ) 
-
-
+, ' <div> ' 
+childNodes 
+ ,   ( instance_of_ ) 
+childElementCount 
+childNodes 
 , ' </div> '
+childElementCount 
+, ' <input type="radio" onclick=" onHover "> </p> ' ]. join ( '' ); };
 
-, ' <input type="radio"    =" onclick  " > </p> ' ] . join ( '' ); };
-
-for ( ; instance_of_ . name .    ( -1 )     = "__" ;){ 
-
-prompted = + [ ' <p onHover onhover > '
-,(   instance_of_. name. constructor  ) ,
- , '   '
-, ' <input type="text" value=""   ""  placeholder ="'
-,(           ) ,
-, '" id= "'  
-,(instance_of_.)
+for ( ; instance_of_ . name .    ( -1 )      "__" ;){ 
+childElementCount )
+prompted = + [ ' <p > '
+,( instance_of_. name. constructor ) , 
+ , '' 
+, ' <input type="text" value="" onhover="" placeholder ="'
+,(           ) , 
+, '" id= "' 
+,(instance_of_. ) 
  
 ,  '"value=""></p>', 
  ].join ( '' );
