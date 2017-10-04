@@ -1,6 +1,6 @@
  
 
-the db package,
+the db package, 
 
 var dbs ={
  
@@ -8,30 +8,30 @@ var dbs ={
 
 
 
-_
+
  asks_ids:{ place :{ place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ }} , current_ : current  ,low_id:{ is_low_id   ,
   checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_id , asks_track_ : Number ( asks_track_integer ) ,
-  asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
+ asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} , 
 at_ :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
   }}}}}}, 
-   },  
- }}}, at  (((())))) '
-= instance_of_wallets_id_that_has_checkers_used_  id : 
- :{ ids 
-,  : ()()id not_the_reencrypted :{ wallets_ids__ :  _id not_the_reencryption_asks_ids ,of_integer__
- wallets_ids__asks  _is_asks_level   keys_for_the_binary_buffer, __ keys_for integer _id : reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
-  }}},{}}, {
+   }, 
+ }}}, = at (((())))) ' 
+    _ids_  _ : instance_of_wallets_id_that_has_checkers_used_  id : not_the_
+ :{  __
+,  is () () id not_the_reencrypted :{ wallets_ids__ : reencryption_asks   _ids ,  of_integer__
+ wallets_ids__       keys_for_the_binary_buffer,  keys_for integer _id : _id reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
+  }}},{}}, { asks asks_level
  ledgers :{ 
-wallets_ledger:{ at_at_ , at_,
+wallets_ledger:{ at_at_ , at_, 
  crypteds , 
  asks_ids , 
-       } ,
-  place is  place latLng :{ lng : is_lng lat is_lat } _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
+       } ,instance_of_wallets_id_that_has_checkers_id__
+  place is  place latLng :{ lng : is_lng lat is_lat }  _place : _place , place_:is_place_ , curent_:{iscurrenr},low_id:{ is_low_id   ,
  integer is, , needed_crypteds_ ,asks_track  is_track_integer ,
   id asks_level : integer, asks letter : is_asks_letter 
  
- instance_of_wallets_id_that_has_checkers_id__
+ 
  
  crypteds:{ 
   decrypted__ : new String  ( bunch_of_o_and_one ) ,         
@@ -41,39 +41,39 @@ used_id_to   facultative
  decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
   reencrypted__: { reencrypted_cryptos_used__ : reencrypted_cryptos_used ,keys_for_the_crypted_not_the_reencrypted__: keys_for_the_crypted_not_the_reencrypted } } } },  :  cryptos    , lowdollars__:{} } ,
       }}} 
-!= guide (checks_ ,) guide  
+   
  checkers_checks_ledger :{ 
    
- checks_asks :{ isplain__ : the_  things_that_is , 
+ checks_asks :{ isplain __ : the_checks_  things_that_is , 
    instanceofdb : {     ( checks_instance_of_dbs_integer ) :{ __:{ checks_instance_of_dbs } } }, 
-   checks_ids_ : checks_asks_id , ''={.}((:,) 
-   checks_ : send_backs_sorted } ==, asks_ids ,: ,!= __  
-  == "":(:
+   checks_ids : checks_asks_id ,  
+   checks_ : send_backs_sorted } ,       
+  
  
 constancy_ledger :{ 
  methods 
 constancy_asks_ids_ : constancy_asks_id ,    
 constancy_checks_ : send_backs_sorted ,  
-unconstancy_issue__ : issue , 
-constancy_asks :{ isplain__ : the_constancy_   things_that_is , instanceofdbs:{ Number ( constancy_asks_  _   _integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
+unconstancy_issue__ : issue ,   
+constancy_asks :{ isplain__ : the_constancy_  things_that_is , instanceofdbs:{ Number ( constancy_asks_  _   _integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
   constancy_asks_instance_of_dbs_integer
-rewards_asks_ledger : { rewards_asks_ids__ : rewards_asks_id , checkers__ : checkers_id , rewards_asked__ : Number ( checker_asked_rewards_integer )  },
+rewards_asks_ledger : { rewards_asks_ids : rewards_asks_id , checkers  : checkers_id , rewards_asked__ : Number ( checker_asked_rewards_integer )  },
 mean_asked_rewards :{ mean_asks_ask_ids : mean_asks_id , mean_asked_rewards : Number ( mean_asked_rewards_integer ) } } },     
-  
-
-  
- used_guides:{
+       
+ 
+_ ,: ,!= __ asks_ids__
+ used_guides:{!= 
 checkers_used_guide : {	checkers_used:{  _   :{ '="' } ,ids checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
 wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_    } , needs_:{} , tasks:{} },
 cryptos_used_guide : { cryptos_used: { cryptos_used_ids__ : cryptos  _used_id    cryptos_used_versions__ : cryptos_used_   }, needs_:{} , tasks_ :{} },
-        _used_guide :{ db_used: { dbs_used_ids__ :   _used_id ,   _used_versions__ :     _used_version } , needs_:{}_ids,ids_}}} tasks_ :{} },
+    "":(:    _used_guide :{ db_used: { dbs_used_ids__ :   _used_id ,   _used_versions__ :     _used_version } , needs_:{}_ids,ids_}}} tasks_ :{} },
 datas_udsed_guide : { datas_used:{ _ _ ids__ :  _  _id   __  _ id } ,needs: {}, uis :{  _used_ids__   _ui_used_id ,    _used_versions__     ui_used_version }} , 
-
-(){ ids is_backs_keys{ } _ _and_the_ and_and_ _and_coded_tasks
-guides { 
-
+==  
+(){ ids is_backs_keys{guide }guide ,) _ _and_the_ and_and_ _and_coded_tasks
+guides    { ''={__.}(( :,)(
+==
        _guide : { db_package_: the_db_object ,tasks_:{} },
-checking_guide : { checking_package_: the_checking_package_and_coded_tasks , tasks_:{ { coded_tasks__  coded_tasks   } },
+checking_guide : { checking_package_: the_checking_package_and_coded_tasks , tasks_:{ { coded_tasks__  coded_tasks }}, 
       _guide : {         _package_: the_sending_package_and_coded_tasks , tasks_:     coded_tasks__    coded_tasks  } },
  limits_guide : { needs_:{ } , limits_:{  __   } },
 rewards_guide : { needs_:{ } ,tasks_:{ } }}},}, 
@@ -126,41 +126,40 @@ childElementCount
 childNodes 
 , ' </div> '
 childElementCount 
-, ' <input type="radio" onclick=" onHover "> </p> ' ]. join ( '' ); };
-
-for ( ; instance_of_ . name .    ( -1 )      "__" ;){ 
-childElementCount )
-prompted = + [ ' <p > '
-,( instance_of_. name. constructor ) , 
- , '' 
-, ' <input type="text" value="" onhover="" placeholder ="'
-,(           ) , 
-, '" id= "' 
-,(instance_of_. ) 
+, ' <input type="radio" onclick=" ''  "> </p> ' ]. join ( '' ); };
+)(,  slice  )  ( -1 )      "__" ; ){ 
+  
+prompted = + [ ' <p> ' 
+,  ( instance_of_ . name . constructor ) 
  
-,  '"value=""></p>', 
- ].join ( '' );
-}
-,
-"
-    methods . prompt_ =    ''
+, '<input type="text" value="" onhover="" placeholder ="'
+              
+, '" id= "' 
+, ( instance_of_.     ) 
+ 
+,  '"value=""></p>'  
+ ].join ( '' ); 
+},   
+ 
+
+        
 
 
-for( ;   1   (    ) = "_" ; ) {
-} ,       
+for( , ; ''  1   (    ) = "_" ; ) {
+        
 
 
- methods. click = '     ( instance_of__ = instance_of_ . constructor  )'  );
-    
-prompted
-
-   =   '<button id="'
+   click . constructor 
+ onHover
+methods. .methods ,prompt_ 
+= }, )'); ", 
+ prompted =   '<button id="'
 , instance_of_.name
-, '" name="'
+, '" name="' instance_of_
 ,,instance_of_.name
-, '" value="'
-,, instance_of_.name
-, '" onclick="'
+, '" value="'   
+,, instance_of_.name 
+, '" onclick="',='(instance_of__=childElementCount
 ,methods.prompt_
  , '">'  ( '' );
 
