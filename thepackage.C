@@ -1,6 +1,6 @@
  
 
-the db package,
+the db package, 
 
 var dbs ={
  
@@ -126,41 +126,40 @@ childElementCount
 childNodes 
 , ' </div> '
 childElementCount 
-, ' <input type="radio" onclick=" onHover "> </p> ' ]. join ( '' ); };
-
-for ( ; instance_of_ . name .    ( -1 )      "__" ;){ 
-childElementCount )
-prompted = + [ ' <p > '
-,( instance_of_. name. constructor ) , 
- , '' 
-, ' <input type="text" value="" onhover="" placeholder ="'
-,(           ) , 
-, '" id= "' 
-,(instance_of_. ) 
+, ' <input type="radio" onclick=" ''  "> </p> ' ]. join ( '' ); };
+)(,  slice  )  ( -1 )      "__" ; ){ 
+  
+prompted = + [ ' <p> ' 
+,  ( instance_of_ . name . constructor ) 
  
-,  '"value=""></p>', 
- ].join ( '' );
-}
-,
-"
-    methods . prompt_ =    ''
+, '<input type="text" value="" onhover="" placeholder ="'
+              
+, '" id= "' 
+, ( instance_of_.     ) 
+ 
+,  '"value=""></p>'  
+ ].join ( '' ); 
+},   
+ 
+
+        
 
 
-for( ;   1   (    ) = "_" ; ) {
-} ,       
+for( , ; ''  1   (    ) = "_" ; ) {
+        
 
 
- methods. click = '     ( instance_of__ = instance_of_ . constructor  )'  );
-    
-prompted
-
-   =   '<button id="'
+   click . constructor 
+ onHover
+methods. .methods ,prompt_ 
+= }, )'); ", 
+ prompted =   '<button id="'
 , instance_of_.name
-, '" name="'
+, '" name="' instance_of_
 ,,instance_of_.name
-, '" value="'
-,, instance_of_.name
-, '" onclick="'
+, '" value="'   
+,, instance_of_.name 
+, '" onclick="',='(instance_of__=childElementCount
 ,methods.prompt_
  , '">'  ( '' );
 
