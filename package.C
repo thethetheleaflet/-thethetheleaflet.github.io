@@ -165,32 +165,32 @@ crypteds
 
 
 
-,   :{checks_level:{
- asks_level_: { is_asks_level_integer:{ _send_backs_level_:{ is_sending_backs_level_integer :{
-  checkers_ids_: is_checkers_ids , approval_ : is_approval } }}} ,
- levels :{ asks_level_: { is_asks_level_integer: { _sending_backs_level_ :{ is_sending_backs_level_integer :{
+,   :{checks_level:{_
+ asks_level_: { is_asks_level_integer :{ send_backs_level_ :{ is_sending_backs_level_integer :{
+  checkers_ids_: is_checkers_id , approval_ : is_approval } }}} ,
+ levels :{ asks_level_: { is_asks_level_integer:{ sending_backs_level_ :{ is_sending_backs_level_integer :{
   level_ : is_asks_level_integer , approval_: is_approval }} }}} 
-}} checks ,checks_asks_id_checkers
- checkers_checks  
- checkers_ids :  
+}} checks ,checks_asks_ id_checkers  
+ checkers_checks 
+ checkers_ids : 
   checks_asks: { 
   isplain__ : is_plain , instanceofdbs_ :{ is_checks_asks_instance_of_dbs_integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
- checks_asks_ids : is_  asks  id _ , 
+ checks_asks_ids : is_  _asks_id , 
  checks : is_send_backs_sorted }, 
- unconstancy is id isplain  integer 
+unconstancy is isplain integer ids
 
 constancy_ledger :{ 
- ()
+ 
  constancy_asks_ids_ : is_constancy_asks_id ,
- constancy_checks_ : is_send_backs_sorted ,
+ constancy_checks_ : is_send_backs_sorted , 
  unconstancy_issues :{ 
   unconstancy_issues__ : is_plain ,
   instanceofdbs :{ is_unconstancy_issues_integer :{ __ :{ is_unconstancy_issues_instance_of_dbs } }}} , 
   
  constancy_asks :{  
-     constancy_asks_ __ __: is_plain ,
+     _constancy_asks_ _ __: is_plain ,
   instanceofdbs_ :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_constancy_asks_instance_of_dbs }} }} ,
-   }}}} isplain  constancy_asks
+ ()  }}}} isplain  constancy_asks 
 rewards_asks_ledger :{ 
   rewards_asks_ids_ : is_rewards_asks_id , 
   checkers__: is_checkers_id , 
@@ -200,37 +200,37 @@ rewards_asks_ledger :{
 
 
 
-
+_used_version
 
 used_guides:{
  checkers_used_guide : {
   checkers_used :{
-   checkers_ids__ : is_checkers_id , material_characteristics__ : is_material_characteristics, ips__: is_ips , wallets__ : is_wallets_ids } ,
+     checkers_ids__ : is_checkers_id , material_characteristics__ : is_material_characteristics, ips__: is_ips , wallets__ : is_wallets_ids } ,
   needs__ : is_plain ,
   tasks__ : is_plain } ,
 
  wallets_used_guide : { 
-  wallets_used : { wallets_used_ids__ : is_wallets_used_id ,
-   wallets_used_versions__ : is_wallets_used_version } ,
-  needs__: is_plain ,
-  tasks__: is_plain } ,
-constancy_asks_ _used_version used asks { ledger ask crypto constancy
- 
+  wallets_used : { wallets_used_ids : is_wallets_used_id ,
+   wallets_used_versions : is_wallets_used_version } ,
+  needs : is_plain ,
+  tasks : is_plain } ,
+    { ledger ask crypto 
+ __
  cryptos_used_guide :{ 
   cryptos_used :{ 
    cryptos_used_ids__ : is_cryptos_used_id , cryptos_used_versions__ : is_    _used_version } ,
   needs__: is_plain ,
   tasks__: is_plain } ,  
 
-dbs_used_guide :{ 
+dbs_used_guide :{ __
  db_used :{   _used_ids__ : is_db_used_id ,  _used_versions__ : is_db_used_version } , 
  needs__ : is_plain , 
  tasks__: is_plain }, 
 datas_used_guide :{ 
-datas_used :{   _used_ids__ : is_  _used_id: ,  _used_versions__ : is_    _used_version  } ,
+datas_used :{   _used_ids__ : is_  _used_id: ,  _used_versions__ : is_    _used_version } ,
  needs__: is_plain , 
   uis_used :{ ui_used_ids__ :   _ui_used_id , ui_used_versions__:   _ui_used_version }}} ,
- 
+ __constancy_asks_used__asks constancy 
  
  ,};{ 
  
