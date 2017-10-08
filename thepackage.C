@@ -17,12 +17,12 @@ at_ :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer)
   }}}}}}, 
    }, 
  }}}, = at (((())))) ' 
-  _  _ids__ _  _ : instance_of_wallets_id_that_has_checkers_used_  id : not_the_
- :{ instance_of_wallets_id_that_has_checkers_id__
-,  is () () id not_the_reencrypted :{ wallets_   ids__ :    reencryption_asks_ids    ,  of_integer __
- wallets_  :{_ids__  keys_for_the_binary_buffer,  keys_for integer _id : _id reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
-  }}},{}}, { asks asks_level
- ledgers :{ 
+wallets :{ wallets_  {}},  _ids__ :    wallets_id _that_has_checkers_used_  id : not_the_
+ :{  wallets_id_that_has_checkers_id__
+,  is () () id not_the_reencrypted :{ _   _ids__ :    reencryption_asks_ids    ,  of_integer __
+   _ids__  keys_for_the_binary_buffer,  keys_for integer _id : _id reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
+  }}},  { asks asks_level_
+ ledgers :{ _instance_of_ instance_of_
 wallets_ledger:{ at_at_ , at_, 
  crypteds , 
  asks_ids , 
@@ -40,33 +40,33 @@ wallets_ledger:{ at_at_ , at_,
 used_id_to   facultative 
  decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
   reencrypted__: { reencrypted_cryptos_used__ : reencrypted_cryptos_used ,keys_for_the_crypted_not_the_reencrypted__: keys_for_the_crypted_not_the_reencrypted } } } },  :  cryptos    , lowdollars__:{} } ,
-      }}} 
+ __     }}} 
    
  checkers_checks_ledger :{ 
    
- checks_asks :{ isplain __ : the_checks_  things_that_is , 
+ checks_asks :{ isplain  : the_checks_  things_that_is , 
    instanceofdb : {     ( checks_instance_of_dbs_integer ) :{ __:{ checks_instance_of_dbs } } }, 
    checks_ids : checks_asks_id ,  
-   checks_ : send_backs_sorted } ,       
+   checks : send_backs_sorted } , 
   
  
 constancy_ledger :{ 
- methods 
+  
 constancy_asks_ids_ : constancy_asks_id ,    
 constancy_checks_ : send_backs_sorted ,  
 unconstancy_issue__ : issue ,   
-constancy_asks :{ isplain__ : the_constancy_  things_that_is , instanceofdbs:{ Number ( constancy_asks_  _   _integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
+constancy_asks :{ isplain__ : the_constancy_things_that_is , instanceofdbs:{ Number ( constancy_asks_  _   _integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
   constancy_asks_instance_of_dbs_integer
 rewards_asks_ledger : { rewards_asks_ids : rewards_asks_id , checkers : checkers_id , rewards_asked__ : Number ( checker_asked_rewards_integer )  },
 mean_asked_rewards :{ mean_asks_ask_ids : mean_asks_id , mean_asked_rewards : Number ( mean_asked_rewards_integer ) } } },     
-  __  _   
+       
  
-    asks_ids__
+    
  used_guides:{  
-checkers_used_guide : {	checkers_used:{  _ _and_the_  :{ '="' } ,ids checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics  , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
+checkers_used_guide : {	checkers_used:{  _ _and_the_  :{ '="' } ,ids checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
 wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_    } , needs_:{} , tasks:{} },
-cryptos_used_guide : { cryptos_used: { cryptos_used_ids__ : cryptos  _used_id    cryptos_used_versions__ : cryptos_used_   }, needs_:{} , tasks_ :{} },
-        _used_guide :{ db_used: { dbs_used_ids__ :   _used_id ,   _used_versions__ :     _used_version } , needs_:{},}}} tasks_ :{} },
+cryptos_used_guide : { cryptos_used: { cryptos_used_ids__ :     _used_ids      cryptos_used_versions__ : cryptos_used_   }, needs_:{} , tasks_ :{} },
+_ asks_ids__  __  methods_ _used_guide :{ db_used: { dbs_used_ids__ :   _used_id ,   _used_versions__ :     _used_version } , needs_:{},}}} tasks_ :{} },
 datas_udsed_guide : { datas_used:{ dbs_ _ ids__ :  _  _id  ),  __  _ id } ,needs : {}, uis :{ ui_used_ids__   _ui_used_id , _used_versions__     ui_used_version }} , 
    ids_  _ids
 (){ ids is _backs_keys{ guide } guide 
@@ -85,14 +85,14 @@ is_the_sending_package_and_coded_tasks
 send_backs_sorted  
  :{ asks_ids ,asks_level_checks  }
 ,levels:{  
- asks_level_   _send_backs_level_ , approval , send_backs_sorted integer() } ,
+ asks_level_  _  _ send_backs_level_ ,     approval , send_backs_sorted integer() } ,
 } asks_level_   , _send_backs_level_sorted  
-,level_   level__ send_backs_sorted
-asks_level_ level send_backs_sorted sending_backs ,level _ level_ _send_backs_sorted
-,,
+,level_   level  send_backs_sorted }}
+  level send_backs_sorted sending_backs ,level _ level_ _send_backs_sorted
+,,level
 }}
- } } }}
-
+ } } 
+asks
 
 ,   . asking: {
  prompt_user_for_instance_of: {
@@ -101,11 +101,11 @@ asks_level_ level send_backs_sorted sending_backs ,level _ level_ _send_backs_so
 
 
 
-
- prompted_is = ' <button ="   ( methods.prompt_  )"  "  id ="    .name.constructor" > </button>' ;
-var instance_of_ = instance_of__ .     ( "" ) , ' button','  =  , this  , ( (name  name '', constructor' ,'
-}, 
- for(;   =    __ of ; ){ childNodes ; 
+  
+ prompted_is = ' <button     ="   ( methods.prompt_ )"  "  id ="    .name.constructor" > </button>' ;
+var       instance_of_ = instance_of__ . childNodes ( "" ) ,   ' button = , this  , ( (name  name  constructor' ,'
+}, ','_  __  
+ for(  '' ,  ;   =    _of_  ; ){  ; 
 },  
  for ( ; instance_of_ . name .        ( - (  1 ) )     "_" ; ) { 
 for ( ; instance_of_ . name .   ( - 1 ) != '__' ; ) 
@@ -126,11 +126,11 @@ childElementCount
  
 , ' </div> ' 
  
-, ' <input type="radio" onclick=" '' ) "> </p> ' ]. join ( '' ); };
+, ' <input type="radio" onclick=" '') ) "> </p> ' ]. join ( '' ); };
    (      . slice ( -1 )      "__" ; ){  
  
 prompted = + [ ' <p> ' 
-,  ( instance_of_ . constructor ) )
+,  ( instance_of_ . constructor ) 
  
 , '<input type="text" value="" onhover="" placeholder ="'
 ,   
@@ -145,7 +145,7 @@ prompted = + [ ' <p> '
         
 
 
-for( , ;   1   (    ) = "_" ; ) {
+for( , ;   1  = (    )  "_" ; ) {
  
 
 
@@ -155,11 +155,11 @@ methods. .methods ,prompt_
 = }, )'); ", 
  prompted =   '<button id="'
 , instance_of_.name
-, '" name="' instance_of_
+, '" name="' 
 ,,instance_of_.name
-, '" value="'   
+, '" value="' 
 ,, instance_of_.name 
-, '" onclick="',='(instance_of__=childElementCount
+, '" onclick=" ',='( instance_of__=instance_of_ childElementCount
 ,methods.prompt_
  , '">'  ( '' );
 
@@ -170,8 +170,8 @@ methods. .methods ,prompt_
 }  ,window.prompt
 = ( for (   = 0;1  ; ) {
 
-= }
-    ): ;
+= };
+    ): 
 
 } , sort_ips_that_the_capacity_allows_according_to_the_checking_ :{
  file {
