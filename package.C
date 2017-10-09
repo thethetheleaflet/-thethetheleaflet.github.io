@@ -1,6 +1,6 @@
  var methods={}  ;methods.prototype. Object .prototype .is_  =    null ,   methods
 {};,,
- . this_is
+ . this_is 
 = for
 
  ( var methodes in this ) {
@@ -78,31 +78,31 @@ objects : typeof that === 'object'
 , 
  }
 , methods.is_checkers_ids :{
-, asks_ids_of_package_asks: formats  methods  is_asks_ids
+, asks_ids_of_package_asks: formats . methods . is_asks_ids
 
-, :        ( that )   }:
+,    :   ( that )   }:
 , methods.is_coded:{
 jshint_:   (    ,   , 
 
- ,,)   ids =  "',=    }'' '' "" ''  }   }}' = "' :
-, methods.is_crypteds:{  .
-,instance_of_wallets: that . parentElement   constructor =   wallets_ledger   .
-,       :       .  . ( that ) ; ,      . } 
-, methods.is_crypteds_integer:{ 
-, over_minus_one: that > 
+ ,,)   ids =  "',=    }'' '' "" ''  } = "' :
+, methods.is_crypteds:{  
+,instance_of_wallets: that . parentElement = wallets_ledger .
+,       : . . isPrototypeOf ( that ) ; , }  
+, methods.is_crypteds_integer:{ } }'
+, over_minus_one:      > 
 ,  :    .   . (that) ,   } 
-, methods.is_cryptos_used_ids:{  :  
-  instanceOf :  ,isInstanceOf ( that>  } ""'}
-,.'="' {=,' 
-
+, methods.is_cryptos_used_ids:{    
+  instanceOf :prototype  ,isInstanceOf ( that>  } ""'}
+,.'="' {=, : constructor 
+'
 
 ,.
 , methods.is_instance_of_dbs:{
-1( ) instance_of_dbs:       ,  typeOf  typeof that     'object'
-, prototypeof _     : ,.    .isPrototypeOf( that )
-,:that}'="',
+1( ) : ,     'object'
+,       : ,prototypeof_ typeof instance _of_dbs  .    .isPrototypeOf( that )
+,:that}'="',that
 ,   ,   methods.is_material_characteristics:{
-    (1,:that,}
+    (1,:that,}typeOf
 , methods. is_mean_ask_ids:{
 ,. ();,1,:{ :that>1}
 
@@ -140,7 +140,7 @@ formats = {
 
  ledgers :{ 
 
-cryptos not 
+   
  
 wallets_ledger :{ 
  instance_of_checkers_used_guide_the_keys_for_the_ids 
@@ -148,9 +148,9 @@ wallets_ledger :{
 crypteds ids instance_of_wallets_id_that_has_checkers_id__ 
     _id   at_ at_:{ is_at_integer :{ _of_ :{ is_reencrypted_integer :{ reencrypted_of_ :{ is_needed_integer:{ needed_of_ :{ is_crypteds_integer )  : {used: {}} :{:
 crypteds:{ 
-  cryptos_used : { 
+  cryptos_used : { cryptos
    to_crypted : { cryptos_used_ids__    is_cryptos_used_id , crypted__   is_binary_buffer } 
-   to_crypted_minus_:{ is_crypted_minus_integer :{ __ :{ cryptos_used_ids__ : is_cryptos_used ,    crypted__ :     _ used_ids } }}} } ,
+   to_crypted_minus_:{ is_crypted_minus_integer :{ __ :{ cryptos_used_ids__ : is_cryptos_used    ,    crypted__ :     _ used_ids } }}} } ,
  , (ids checkers_that  
    decrypted__ : is_binary_buffer , 
  asks_keys_ :{ is_sending_backs_keys :{ 
@@ -165,17 +165,17 @@ crypteds
 
 
 
-,   :{checks_level:{_
+,   :{checks_level:{   
  asks_level_: { is_asks_level_integer :{ send_backs_level_ :{ is_sending_backs_level_integer :{
   checkers_ids_: is_checkers_id , approval_ : is_approval } }}} ,
  levels :{ asks_level_: { is_asks_level_integer:{ sending_backs_level_ :{ is_sending_backs_level_integer :{
   level_ : is_asks_level_integer , approval_: is_approval }} }}} 
-}} checks ,checks_asks_ id_checkers  
+}} checks ,   
  checkers_checks 
- checkers_ids : 
+ checkers_ids : id _ checkers
   checks_asks: { 
   isplain__ : is_plain , instanceofdbs_ :{ is_checks_asks_instance_of_dbs_integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
- checks_asks_ids : is_  _asks_id , 
+ checks_asks_ids : is_checks_asks_  _asks_id , 
  checks : is_send_backs_sorted }, 
 unconstancy is isplain integer ids
 
@@ -186,11 +186,11 @@ constancy_ledger :{
  unconstancy_issues :{ 
   unconstancy_issues__ : is_plain ,
   instanceofdbs :{ is_unconstancy_issues_integer :{ __ :{ is_unconstancy_issues_instance_of_dbs } }}} , 
-  
- constancy_asks :{  
-     _constancy_asks_ _ __: is_plain ,
+  _
+ constancy_asks :{   
+     _constancy_asks_ _   __: is_plain ,
   instanceofdbs_ :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_constancy_asks_instance_of_dbs }} }} ,
- ()  }}}} isplain  constancy_asks 
+ ()  }}}} isplain  constancy _ asks 
 rewards_asks_ledger :{ 
   rewards_asks_ids_ : is_rewards_asks_id , 
   checkers__: is_checkers_id , 
@@ -214,7 +214,7 @@ used_guides:{
    wallets_used_versions : is_wallets_used_version } ,
   needs : is_plain ,
   tasks : is_plain } ,
-    { ledger ask crypto 
+    { ledger ask   
  __
  cryptos_used_guide :{ 
   cryptos_used :{ 
