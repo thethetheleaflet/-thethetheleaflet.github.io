@@ -52,27 +52,27 @@ objects : typeof that === 'object'
   checkers_ids_: , reencrypted_asks_ids : reencrypted_asks_       , asks_track_ : asks_track_integer , 
    asks_level_ : ; asks_level_integer , asks_letter_ :   asks_letter_integer    } ,  
   asks_ids . prototype.isPrototypeOf ( that )
-, eight_element : that.childElementCount =    , ()   } , 
-, methods.is_asks_level_integer:{
-  positive_integer: Number . isInteger( that )
-, over_minus_one : that >   
-, under_eleven : that =  ,    :    (that)   }
-, .. , '' '="'}(childElementCount
-, methods.is_at_integer :{
+, eight_element : that.childElementCount =        } , 
+Number isInteger  , methods.is_asks_level_integer:{
+ .() that positive_integer :     
+, over_minus_one : 
+, under_eleven :    >= that ,    :    (that)   } (),
+, .. ,   childElementCount 
+, methods.is_at_integer :{ 
+ '="'}(''
+, positive_integer: Number . isInteger( that )
+, under_crypteds_integer : that >=  
+, over_minus_one : is over minus      
+, that } , 
  
-,positive_integer: Number .isInteger( that )
-, under_crypteds_integer:      >=  
-, over_minus_  one   : that   
-,     that } ,
-   
 , methods.is_binary_buffer:{
- string: typeof that === 'string' 
-, string_of_one_and_o :   > 
+ string:    typeof that === 'string' 
+, string_of_one_and_o :   > that
      ( for ( that_ = 0; that_   that . length   that_ ;that_++ ) {
- for ( ; that[that_ ] = 0 ; ) {
+ for (   ; that[that_ ] = 0 ;    ) { 
 
- _that_ =   _that_ ;
-    
+ _that_ =    ; 
+    _that_
  }_that_ = * that [ that_ ] ;      _that_; } =     ); 
     = 
 , 
@@ -93,29 +93,29 @@ jshint_:   (    ,   ,
 ,  :    .   . (that) ,   } 
 , methods.is_cryptos_used_ids:{    
   instanceOf :prototype  ,isInstanceOf ( that>  } ""'}
-,.'="' {=, : constructor 
+ {=, : constructor 
 '
 
 ,.
 , methods.is_instance_of_dbs:{
-1( ) : ,     'object'
+1( ) : ,     ' object'
 ,       : ,prototypeof_ typeof instance _of_dbs  .    .isPrototypeOf( that )
-,:that}'="',that
+,:that}'="',that,.'="'
 ,   ,   methods.is_material_characteristics:{
     (1,:that,}typeOf
 , methods. is_mean_ask_ids:{
-,. ();,1,:{ :that>1}
+,. ();,1,:{ :that>1 }
 
 , methods. is_mean_ask_integer:{
 , ;  . )  ,   . isInteger (  that  ) ,  :   >  1  }
-,,methods.is_needed_integer: {   
- . (  ) ;   .isInteger ( that  , ) :   >  1};
-, methods.is_place: {
-  (  )  . isPrototypeOf   ,  childElementCount    : , ;, }
+,,methods.is_needed_integer: {  , 
+ . (  ) ;   .isInteger :      > 1 };
+, methods.is_place: { 
+  (  )  . isPrototypeOf ( that )  ,: childElementCount     , ;, }
 methods,   methods  ,  ,    )
-, methods.is_plain: {
- methods ,that,:'="',{:  ;    ( that);,  }; }
-,methods.is_random_id: {
+, methods.is_plain: { 
+ methods ,that,:'="',{:  ;    ( that ); ,  }; }
+,methods.is_random_id: { 
 , :1 that};}
 ,methods.is_rewards_integer:{, 
   ,  : that > 1 : {}  .isInteger (that);,
@@ -148,13 +148,13 @@ wallets_ledger :{
 crypteds ids instance_of_wallets_id_that_has_checkers_id__ 
     _id   at_ at_:{ is_at_integer :{ _of_ :{ is_reencrypted_integer :{ reencrypted_of_ :{ is_needed_integer:{ needed_of_ :{ is_crypteds_integer )  : {used: {}} :{:
 crypteds:{ 
-  cryptos_used : { cryptos
+  cryptos_used : { 
    to_crypted : { cryptos_used_ids__    is_cryptos_used_id , crypted__   is_binary_buffer } 
-   to_crypted_minus_:{ is_crypted_minus_integer :{ __ :{ cryptos_used_ids__ : is_cryptos_used    ,    crypted__ :     _ used_ids } }}} } ,
- , (ids checkers_that  
+   to_crypted_minus_:{ is_crypted_minus_integer :{  :{ cryptos_used_ids__ : is_cryptos_used  id ,    crypted__ :     _ used _ids } }}} } ,
+ , ids checkers _ that  
    decrypted__ : is_binary_buffer , 
- asks_keys_ :{ is_sending_backs_keys :{ 
-   reencrypted__: { reencrypted_cryptos_used__   is_reencrypted_cryptos_used 
+ asks_keys_ :{ is_sending_backs_keys :{ cryptos
+(__   reencrypted__: { reencrypted_cryptos_used__   is_reencrypted_cryptos_used 
   keys_for_the_crypted_not_the_reencrypted :{ low_id_ :   is_low_id , random_id_ : is_random_id ,
  keys_for_the_crypted_not_the_reencrypted__ : is_binary_buffer } 
   is_asks_ids    
@@ -184,15 +184,15 @@ constancy_ledger :{
  constancy_asks_ids_ : is_constancy_asks_id ,
  constancy_checks_ : is_send_backs_sorted , 
  unconstancy_issues :{ 
-  unconstancy_issues__ : is_plain ,
-  instanceofdbs :{ is_unconstancy_issues_integer :{ __ :{ is_unconstancy_issues_instance_of_dbs } }}} , 
+  unconstancy_issues__ : is_plain , 
+  instanceofdbs :{ is_unconstancy_issues_integer :{ __ :{ is_unconstancy_issues_instance_of_dbs }}}} , 
   _
- constancy_asks :{   
-     _constancy_asks_ _   __: is_plain ,
-  instanceofdbs_ :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_constancy_asks_instance_of_dbs }} }} ,
- ()  }}}} isplain  constancy _ asks 
+ constancy_asks :{ 
+     _constancy_asks_ _ _  __ : is_plain , 
+  instanceofdbs_ :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_constancy_asks_instance_of_dbs }}}} ,
+ () }}}}  _ constancy asks 
 rewards_asks_ledger :{ 
-  rewards_asks_ids_ : is_rewards_asks_id , 
+  rewards_asks_ids  : is_rewards_asks_id , 
   checkers__: is_checkers_id , 
   rewards_asked__ : is_asked_rewards_integer , 
   rewards_checks_ : is_send_backs_sorted } , 
