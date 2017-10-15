@@ -45,13 +45,13 @@ for ( ; methodes. value = 0 ; ) {
  console. log( [ that , " this could be ", this_could_be .this.methodes.name , this . constructor ]) ; } }} };
 
 
-methods  is   : {
-,methods . is_asks_ids :{ 
-objects : typeof that === 'object'
-, prototypeof_asks_ids : asks_ids:{ _. place  place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
-  checkers_ids_: , reencrypted_asks_ids : reencrypted_asks_       , asks_track_ : asks_track_integer , 
-   asks_level_ : ; asks_level_integer , asks_letter_ :   asks_letter_integer    } ,  
-  asks_ids . prototype.isPrototypeOf ( that )
+methods  is_ objects : {  
+, methods . is_asks_ids :{ 
+   objects : typeof that === 'object'
+, prototypeof_asks_ids :       :{  . place  place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
+ checkers_ids_: , reencrypted_asks_ids : reencrypted_asks_ , asks_track_ : asks_track_integer , 
+ asks_level_ : ; ids asks_level_integer , asks_letter_ :   asks_letter_integer    } ,  
+       asks_ids _ . prototype.isPrototypeOf ( that )
 , eight_element : that.childElementCount =        } , 
 Number isInteger  , methods.is_asks_level_integer:{
  .() that positive_integer :     
@@ -139,13 +139,13 @@ formats = {
 
 
  ledgers :{ 
-
+wallets
    
  
 wallets_ledger :{ 
- instance_of_checkers_used_guide_the_keys_for_the_ids 
- wallets  wallets _  ids__  wallets_id id: is_asks_ids , { 
-crypteds ids instance_of_wallets_id_that_has_checkers_id__ 
+ instance_of_checkers_used_guide_ the_keys_for_the_ids 
+ wallets  wallets_  ids__ wallets_ id id : is_asks_ids , { 
+crypteds ids instance_of_ wallets_id_  that_has_checkers_id__ 
     _id   at_ at_:{ is_at_integer :{ _of_ :{ is_reencrypted_integer :{ reencrypted_of_ :{ is_needed_integer:{ needed_of_ :{ is_crypteds_integer )  : {used: {}} :{:
 crypteds:{ 
   cryptos_used : { 
@@ -162,22 +162,22 @@ crypteds:{
  } } } }} } }} }}}} ,  has ids }}} , lowdollars__: is_low_integer } }, 
 crypteds
 
+send_backs_sorted
 
 
-
-,   :{checks_level:{   
+        :{checks_level:{   
  asks_level_: { is_asks_level_integer :{ send_backs_level_ :{ is_sending_backs_level_integer :{
   checkers_ids_: is_checkers_id , approval_ : is_approval } }}} ,
  levels :{ asks_level_: { is_asks_level_integer:{ sending_backs_level_ :{ is_sending_backs_level_integer :{
   level_ : is_asks_level_integer , approval_: is_approval }} }}} 
-}} checks ,   
+  , }} checks , 
  checkers_checks 
- checkers_ids : id _ checkers
+ checkers_ids : checkers_id 
   checks_asks: { 
   isplain__ : is_plain , instanceofdbs_ :{ is_checks_asks_instance_of_dbs_integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
- checks_asks_ids : is_checks_asks_  _asks_id , 
+ checks_asks_ids : is_checks_asks_  _asks_ id , 
  checks : is_send_backs_sorted }, 
-unconstancy is isplain integer ids
+     unconstancy is isplain integer ids
 
 constancy_ledger :{ 
  
@@ -186,11 +186,11 @@ constancy_ledger :{
  unconstancy_issues :{ 
   unconstancy_issues__ : is_plain , 
   instanceofdbs :{ is_unconstancy_issues_integer :{ __ :{ is_unconstancy_issues_instance_of_dbs }}}} , 
-  _
+ 
  constancy_asks :{ 
-     _constancy_asks_ _ _  __ : is_plain , 
+     the_constancy_asks_ _ _  __ : is_plain , 
   instanceofdbs_ :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_constancy_asks_instance_of_dbs }}}} ,
- () }}}}  _ constancy asks 
+ () }}}} constancy_asks_   
 rewards_asks_ledger :{ 
   rewards_asks_ids  : is_rewards_asks_id , 
   checkers__: is_checkers_id , 
