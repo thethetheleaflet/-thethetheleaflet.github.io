@@ -15,22 +15,22 @@ var dbs = {
  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} , 
 at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
   }}}}}}, off
-   }, at
+   }, 
  }}}, = (((())))) ' 
-wallets :{ wallets_ on :{        _ids__ : wallets_  off id _ that_has_checkers_used_  id : 
- :{  wallets_ off id _that_has_checkers  _id__ ids}}}:,
-,  is () () id not_the_  off :{  _  _ids__ : reencryption_asks_   ,  of_integer __not_the_
-   _ids__ instance_of_ keys_for_the_binary_buffer , keys_for integer _id : _id reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
+wallets :{ wallets_ on :{ wallets off_ids__ : wallets_off_id       _ has_checkers_used_  id : 
+ :{  wallets_ off_ id  that_has_ checkers  _id__ ids}}}:,
+,  is () () id not_the_  off_ids__ :{  _  _ids__ : reencryption_asks_   ,  of_integer __not_the_
+    instance_of_ keys_for_the_binary_buffer , keys_for integer _id : _id reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
   }}},:, { , asks asks_level__instance_of_:is_asks_letter_place
   ledgers :{ 
 wallets_ledger:{ at_at_ , at_, 
  crypteds , 
- asks_ids , _
+ asks_ids , 
        } , 
- place is place latLng lng , is_lng lat place_ curent_:{iscurrenr, 
- integer is needed _crypteds  asks track is _ track _ integer ,},:{ 
+ place is place latLng lng , is  lng lat place_ curent_:{iscurrenr, 
+ integer is needed _ crypteds  asks track is _ track _ integer ,},:{ 
   id asks level integer , asks letter 
-  
+  _at_
  
  
  crypteds:{ 
@@ -78,11 +78,11 @@ checking_guide : { checking_package_: the_checking_package , tasks_: coded_tasks
  limits_guide : { needs_:{ and_and_} , limits_:{ :,_ __ } }, __and_coded_tasks__{
 ==,: "":(:rewards_guide.}(( ''={ == : { needs_:{ } ,tasks_:{ coded_tasks } }}},}, ,!=  )(!= _and_ 
 
-
+send_backs_sorted
  checking_package{}
 is_the_sending_package_and_coded_tasks
 
-send_backs_sorted  
+  
  :{ asks_ids ,asks_level_checks  }
 ,levels:{  
  asks_level_  _  _ send_backs_level_ ,     approval , send_backs_sorted integer() } ,
@@ -102,40 +102,40 @@ asks
 
 
   
- prompted_is = ' <button     ="   ( methods.prompt_ )"  "  id ="    .name.constructor" > </button>' ;
-var       instance_of_ = instance_of__ . childNodes ( "" ) ,   ' button = , this  , ( (name  name  constructor' ,'
-}, ','_  __  
- for(  '' ,  ;   =    _of_  ; ){  ; 
-},  
- for ( ; instance_of_ . name .        ( - (  1 ) )     "_" ; ) { 
-for ( ; instance_of_ . name .   ( - 1 ) != '__' ; ) 
+ prompted_is = ' <button onclick ="   ( methods.prompt_ ) "  id ="    .name.constructor" > </button>' ;
+var instance_of__ = _ formats ; _ , instance_of_ = instance_of__ . childNodes ( "" ) ,  " ' button , this , ( ( name name constructor' ,'
+}, =
+ for(  ,  ;         ;){ 
+},  ''  ''  instance
+ for ( ; instance_of_ . name .        ( - (    1 ) )     "_" ; ) { 
+for ( ; instance_of_ . name .      ( - 1 ) != '__' ; ) 
 {}   .'
 
-  prompted = + [ ' <p> '  
+  prompted =+[ ' <p> ' 
 
 , ' <div> '
 
  ,       ( instance_of_. name. constructor ) , 
-childNodes
+childNodes  childElementCount
 childNodes childElementCount
 , ' </div> ' 
 , ' <div> ' 
-childElementCount 
+ 
  ,   ( instance_of_   ) 
  
  
 , ' </div> ' 
  
 , ' <input type="radio" onclick=" '') ) "> </p> ' ]. join ( '' ); };
-   (      . slice ( -1 )      "__" ; ){  
+ (      . slice ( -1 )      "__" ; ){ 
  
-prompted = + [ ' <p> ' 
-,  ( instance_of_ . constructor ) 
+prompted  =+ [' <p> ' 
+, ( instance_of_ . constructor ) 
  
-, '<input type="text" value="" onhover="" placeholder ="'
-,   
-, '" id= "' name
-, ( instance_of_ .     ) 
+, ' <input type="text" value="" onhover="" placeholder ="'
+, 
+, '" id= "' 
+, ( instance_of_ . name ) 
  
 ,  '"value=""></p>'  
  ].join ( '' ); 
@@ -159,11 +159,11 @@ methods. .methods ,prompt_
 ,,instance_of_.name
 , '" value="' 
 ,, instance_of_.name 
-, '" onclick=" ',='( instance_of__=instance_of_ childElementCount
-,methods.prompt_
+, '" onclick="    ( instance_of__ = instance_of_ 
+,methods.prompt_ 
  , '">'  ( '' );
 
-
+',='childElementCount
 
 
 
