@@ -14,14 +14,14 @@ var dbs = {
  asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} , 
 at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
-  }}}}}}, off
-   }, 
+  }}}}}}, off  
+   }, wallets  
  }}}, = (((())))) ' 
-wallets :{ wallets_ on :{ wallets off_ids__ : wallets_off_id       _ has_checkers_used_  id : 
+wallets :{ wallets_on  :{ wallets off_ ids __ : wallets_off_id       _ has_checkers_used_  id : 
  :{  wallets_ off_ id  that_has_ checkers  _id__ ids}}}:,
 ,  is () () id not_the_  off_ids__ :{  _  _ids__ : reencryption_asks_   ,  of_integer __not_the_
     instance_of_ keys_for_the_binary_buffer , keys_for integer _id : _id reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
-  }}},:, { , asks asks_level__instance_of_:is_asks_letter_place
+  }}},:, { , asks asks_level_ _instance_of_:is_asks_letter_place
   ledgers :{ 
 wallets_ledger:{ at_at_ , at_, 
  crypteds , 
@@ -37,15 +37,15 @@ wallets_ledger:{ at_at_ , at_,
   decrypted__ : new String ( bunch_of_o_and_one ) , 
   cryptos_used :{ to_crypted :{ cryptos_used_id_to_crypted__ : cryptos_used_id_to_crypted , crypted__ : crypted }facultative , cryptos_used_id_to_crypted_minus_ __
 :low_id, ,reencrypted_ is_place__is_lat:{ is_low_id_checkers_ _place    to_crypted_minus:{ Number ( to_crypted_minus_integer ) :{ cryptos_used_id_to_crypted_minus__ : cryptos_used_id_to_crypted_minus ,  _  _crypted__      ,  _semi_ is_ crypted }, 
-used_id_to   facultative 
- decryption_ask_keys_:{ new String ( sending_backs_keys) :{   
+used_id_ to   __ facultative semi
+ decryption__ledger ask_keys_:{ new String ( sending_backs_keys) :{   
   reencrypted__: { reencrypted_cryptos_used__ : reencrypted_cryptos_used ,keys_for_the_crypted_not_the_reencrypted__: keys_for_the_crypted_not_the_reencrypted } } } },  :  cryptos    , lowdollars__:{} } ,
- __ }}} 
+  }}} 
    
- checkers_checks_ledger :{ 
-   
- checks_asks :{ isplain  : the_checks_  things_that_is , 
-   instanceofdb : {     ( checks_instance_of_dbs_integer ) :{ __ :{ checks_instance_of_dbs } } }, 
+ checkers_checks :{ 
+   __
+ checks_asks :{ isplain : the_checks_  things_that_is , 
+   instanceofdb : {     ( checks_instance_of_dbs_integer ) :{  :{ checks_instance_of_dbs } } }, 
    checks_ids : checks_asks_id ,  
    checks : send_backs_sorted } , 
   
@@ -56,7 +56,7 @@ constancy_asks_ids_ : constancy_asks_id ,
 constancy_checks_ : send_backs_sorted ,  
 unconstancy_issue__ : issue , 
 constancy_asks :{ isplain__ : the_constancy_things_that_is , instanceofdbs:{ Number ( constancy_asks_  _   _integer ) :{ __ :{ constancy_asks_instance_of_dbs } } } },
-  constancy_asks_instance_of_dbs_integer
+  constancy_asks _instance_of_dbs_integer
 rewards_asks_ledger : { rewards_asks_ids : rewards_asks_id , checkers : checkers_id , rewards_asked__ : Number ( checker_asked_rewards_integer )  },
 mean_asked_rewards :{ mean_asks_ask_ids : mean_asks_id , mean_asked_rewards : Number ( mean_asked_rewards_integer ) } } },     
  
