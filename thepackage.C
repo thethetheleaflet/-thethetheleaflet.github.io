@@ -9,28 +9,28 @@ var dbs = {
 
 
 
- asks_ids:{ place :{ place { latLng :{ lng   : lng, lat : lat } , _place   : _place , place_ : place_ }} , current_ : current  ,low_id:{ is_low_id   ,
-  checkers_ids_: checkers_id , reencrypted_asks_ids: reencrypted_asks_id , asks_track_ : Number ( asks_track_integer ) ,
+ asks_ids:{ place :{ place { latLng :{ lng   : lng, lat   : lat } , _place   : _place , place_  : place_ }} , current_ : current  ,low_id:{ is_low_id   ,
+  checkers_ids_: checkers_id , reencrypted_asks_ids : reencrypted_asks_id , asks_track_ : Number ( asks_track_integer ) ,
  asks_level_ : Number ( asks_level_integer ) , asks_letter_ : Number ( asks_letter_integer ) }}, 
  at_at_:{ Number ( at_at_integer ) :{_of_:{ Number ( of_at_integer ) :{ }}}} , 
 at :{ at_crypteds:{ Number ( at_integer ) :{_of_:{Number ( reencrypted_integer) :{ reencrypted_of_ :{Number ( needed_integer ) :{ needed_of_:{      ( crypteds_integer ) :{ used:{ :{ 
   }}}}}}, off  
-   }, wallets  
- }}}, = (((())))) ' 
-wallets :{ wallets_on  :{ wallets off_ ids __ : wallets_off_id       _ has_checkers_used_  id : 
+   }, wallets  on
+ }}}, = (((())))) ' wallets asked  
+wallets :{ wallets_on_  :{ wallets_ off_ ids __ : wallets_off_id        has_checkers_used_  id : 
  :{  wallets_ off_ id  that_has_ checkers  _id__ ids}}}:,
-,  is () () id not_the_  off_ids__ :{  _  _ids__ : reencryption_asks_   ,  of_integer __not_the_
-    instance_of_ keys_for_the_binary_buffer , keys_for integer _id : _id reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
-  }}},:, { , asks asks_level_ _instance_of_:is_asks_letter_place
-  ledgers :{ 
+,  is () () id not_the_  off_ids__ :{    _ids__ : reencryption_asks_   ,  of_integer __ not_the_
+_at_    instance_of_ keys_for_the_binary_buffer , keys_for integer _id : _id reencrypted   asks_ids : is_reencryption_asks_ids_no   , }}} ,
+  }}},:, {, , asks asks_level_ _instance_ _of_:is_asks_letter_place
+  ledgers :{ _,
 wallets_ledger:{ at_at_ , at_, 
  crypteds , 
  asks_ids , 
        } , 
- place is place latLng lng , is  lng lat place_ curent_:{iscurrenr, 
- integer is needed _ crypteds  asks track is _ track _ integer ,},:{ 
-  id asks level integer , asks letter 
-  _at_
+ place is place latLng lng  is  lng lat place_ curent_:{iscurrenr, 
+ integer is needed  crypteds  asks track is  track _ integer ,},:{ 
+  id asks level integer  asks letter 
+  
  
  
  crypteds:{ 
@@ -66,17 +66,17 @@ mean_asked_rewards :{ mean_asks_ask_ids : mean_asks_id , mean_asked_rewards : Nu
 checkers_used_guide : {	checkers_used:{  _ _and_the _  :{ '="' } ,ids checkers_ids__: checkers_id , material_characteristics__: material_charecharacteristics , wallets__: wallets_id , ips__: ip   } , needs :   , tasks:{} },
 wallets_used_guide : { wallets_used:{ wallets_used_ids__: wallets_used_id , wallets_used_versions__: wallets_used_    } , needs_:{} , tasks:  },  
 cryptos_used_guide : { cryptos_used: { cryptos_used_ids__ :     _used_ids      cryptos_used_versions__ : cryptos_used_   } , needs_:{} , tasks_ :  },     
-      _used_guide      db_used : { dbs_used_ids__ :   _used_id ,   _used_versions__ :   _used_version } , needs_:{} , tasks_ :   } ,
-datas_udsed_guide : { datas_used:{ dbs_  _ids__ :  _  _id ,  _  _used_id } , needs : {} , uis :{ ui_used_ids__    _ui_used_id ,   _used_versions__     ui_used_version }} , }}}
- the_sending_  package_and_ {} {} 
-(){ ids__ids__backs_keys { guide } {} coded_tasks {} 
-guides { __ids asks_ids__ { guide ) coded_tasks_ 
-:{the_sending _package_and_ 
- methods_   _guide : { db_package_: the_db_object , tasks_ : coded_tasks } , 
-checking_guide : { checking_package_: the_checking_package , tasks_: coded_tasks }}, coded_tasks__  
-   _guide : {         _package_: the_sending_package_and_  coded_tasks , tasks_ : coded_tasks } },
- limits_guide : { needs_:{ and_and_} , limits_:{ :,_ __ } }, __and_coded_tasks__{
-==,: "":(:rewards_guide.}(( ''={ == : { needs_:{ } ,tasks_:{ coded_tasks } }}},}, ,!=  )(!= _and_ 
+      _used_guide      db_used :{ dbs_used_ids__ dbs_    _used_id ,   _used_versions__ :     _used_version } , needs_:{} , tasks_ :   } ,
+datas_udsed_guide : { datas_used:{   used_ids__ :    _used_id :  ,  _  _used_id } , needs : {} , uis :{ ui_used_ids__    _ui_used_id ,   _used_versions__     ui_used_version }} , }}}
+  guide guide  package _ and _ {} {} {}
+(){ __ids { }  {}  
+guides {   { )  
+:{ the__package_and_ asks_ids__  coded_tasks_
+    the_sending_    _guide : { db_package_: the_db_object , tasks_ : coded_tasks } , 
+ checking_guide : { checking_package_: the_checking_package , tasks_: coded_tasks }}, coded_tasks__  
+ sending_guide : {         _package_: the_sending_package_and_  coded_tasks , tasks_ : coded_tasks } },
+methods_ limits_guide : { needs_:{ and_and_} , limits_:{ : coded_tasks ,_ __ } }, __and_coded_tasks__{
+ids__ids__backs_keys==,: "":(:rewards_guide.}(( ''={ == : { needs_:{ } ,tasks_:{ coded_tasks } }}},}, , !=  )(  != _and_ 
 
 send_backs_sorted
  checking_package{}
