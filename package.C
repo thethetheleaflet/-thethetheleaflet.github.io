@@ -146,16 +146,16 @@ wallets_ledger :{
  instance_of_checkers_used_guide_the_keys_for_the_ids 
  wallets  wallets _  ids__  wallets_id id: is_asks_ids , { 
 crypteds ids instance_of_wallets_id_that_has_checkers_id__ 
-    _id   at_ at_:{ is_at_integer :{ _of_ :{ is_reencrypted_integer :{ reencrypted_of_ :{ is_needed_integer:{ needed_of_ :{ is_crypteds_integer )  : {used: {}} :{:
+_ids checkers   _id   at_ at_:{ is_at_integer :{ _of_ :{ is_reencrypted_integer :{ reencrypted_of_ :{ is_needed_integer :{ needed_of_ :{ is_crypteds_integer )  : {used: {}} :{:
 crypteds:{ 
   cryptos_used : { 
-   to_crypted : { cryptos_used_ids__    is_cryptos_used_id , crypted__   is_binary_buffer } 
-   to_crypted_minus_:{ is_crypted_minus_integer :{  :{ cryptos_used_ids__ : is_cryptos_used  id ,    crypted__ :     _ used _ids } }}} } ,
- , ids checkers _ that  
-   decrypted__ : is_binary_buffer , 
+   to_crypted : { cryptos_used_ids__    is_cryptos_used_id , crypted__ : is_binary_buffer } 
+   to_crypted_minus_:{ is_crypted_minus_integer :{ cryptos_used_ids__ : is_cryptos_used  id ,     crypted__ :     _ used _ ids } }}} } ,
+     that    {
+    decrypted__ : is_binary_buffer , 
  asks_keys_ :{ is_sending_backs_keys :{ cryptos
-(__   reencrypted__: { reencrypted_cryptos_used__   is_reencrypted_cryptos_used 
-  keys_for_the_crypted_not_the_reencrypted :{ low_id_ :   is_low_id , random_id_ : is_random_id ,
+,  (__   reencrypted__: { reencrypted_cryptos_used__   is_reencrypted_cryptos_used 
+  keys_for_the_crypted_not_the_reencrypted :{ low_id_ : is_low_id , random_id_ : is_random_id ,
  keys_for_the_crypted_not_the_reencrypted__ : is_binary_buffer } 
   is_asks_ids    
 
@@ -174,26 +174,26 @@ crypteds
  checkers_checks 
  checkers_ids : id _ checkers
   checks_asks: { 
-  isplain__ : is_plain , instanceofdbs_ :{ is_checks_asks_instance_of_dbs_integer :{ __ :{ is_checks_asks_instance_of_dbs }}}} ,
- checks_asks_ids : is_checks_asks_  _asks_id , 
- checks : is_send_backs_sorted }, 
+ isplain : is_plain , instanceofdbs :{ is_checks_asks_instance_of_dbs_integer :{ __  is_checks_asks_instance_of_dbs }}}} ,
+ checks_asks_ids : is_checks_asks_  asks_id , 
+ checks : is_send_backs_sorted } , 
 unconstancy is isplain integer ids
-
+ 
 constancy_ledger :{ 
  
- constancy_asks_ids_ : is_constancy_asks_id ,
+ constancy_asks_ids_ : is_constancy_asks_id ,:{
  constancy_checks_ : is_send_backs_sorted , 
  unconstancy_issues :{ 
   unconstancy_issues__ : is_plain , 
   instanceofdbs :{ is_unconstancy_issues_integer :{ __ :{ is_unconstancy_issues_instance_of_dbs }}}} , 
-  _
+  
  constancy_asks :{ 
-     _constancy_asks_ _ _  __ : is_plain , 
+  __   _constancy_asks_ _ _  __ : is_plain , 
   instanceofdbs_ :{ is_constancy_asks_instance_of_dbs_integer :{ __ :{ is_constancy_asks_instance_of_dbs }}}} ,
- () }}}}  _ constancy asks 
+ __()__ _}}}}  _ constancy asks 
 rewards_asks_ledger :{ 
   rewards_asks_ids  : is_rewards_asks_id , 
-  checkers__: is_checkers_id , 
+  checkers  : is_checkers_id , 
   rewards_asked__ : is_asked_rewards_integer , 
   rewards_checks_ : is_send_backs_sorted } , 
  
