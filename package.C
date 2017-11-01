@@ -98,22 +98,22 @@ jshint_:   (    ,   ,
 
 ,.
 , methods.is_instance_of_dbs:{
-1( ) : ,     ' object'
-,       : ,prototypeof_ typeof instance _of_dbs  .    .isPrototypeOf( that )
-,:that}'="',that,.'="'
-,   ,   methods.is_material_characteristics:{
-    (1,:that,}typeOf
+1( )   ,  :  _object
+,  ,  ''  _  : dbs . prototype   .isPrototypeOf( that )
+,:that instance that,  
+           , methods.is_material_characteristics:{
+. ,() "" =, =}''(1,:that,} .''
 , methods. is_mean_ask_ids:{
-,. ();,1,:{ :that>1 }
-
+,       ,1  ,:{   :   >1 }
+ of_
 , methods. is_mean_ask_integer:{
-, ;  . )  ,   . isInteger (  that  ) ,  :   >  1  }
-,,methods.is_needed_integer: {  , 
- . (  ) ;   .isInteger :      > 1 };
-, methods.is_place: { 
-  (  )  . isPrototypeOf ( that )  ,: childElementCount     , ;, }
+, integer         . isInteger ( that ) ,      :  that >  1  }
+,,methods.is_needed_integer: { 
+ . ();       .isInteger :     ,     > 1 } ;
+, methods.is_place: {   ,)  .
+  ()    . isPrototypeOf ( that )  ,   : childElementCount     , ;, }
 methods,   methods  ,  ,    )
-, methods.is_plain: { 
+, methods.is_plain: {   
  methods ,that,:'="',{:  ;    ( that ); ,  }; }
 ,methods.is_random_id: { 
 , :1 that};}
