@@ -1,5 +1,5 @@
  var methods={}  ;methods.prototype. Object .prototype .is_  =    null ,   methods
-{};,,
+
  . this_is 
 = for
 
@@ -14,7 +14,7 @@ for( ; methodes . name . toString ( ) .slice ( 0 , 2 ) != "is_" ; ) {
 ) 
 
 
- ,
+ ,   {};,,
  
 
 
@@ -45,34 +45,34 @@ for ( ; methodes. value = 0 ; ) {
  console. log( [ that , " this could be ", this_could_be .this.methodes.name , this . constructor ]) ; } }} };
 
 
-methods  is  _ : 
+methods  is _  : 
     
-objects    typeof that === 'object'
-,methods . is_asks_ids :{ prototypeof_asks_ids : asks_ids:{ . place  place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
-   :  checkers_ids_: , reencrypted_asks_ids : reencrypted_asks_       , asks_track_ : asks_track_integer , 
-   asks_level_  asks_level_integer , asks_letter_ :   asks_letter_integer    } ,  
-,    : asks_ids . prototype.isPrototypeOf ( that )
-, eight_element : that.childElementCount =        } , 
- ; Number  { isInteger    that    , methods.is_asks_level_integer:{
-positive_integer  :  
-, over_minus_one : .()
-, under_eleven :    >= that ,    :    (that)   } () ,
+    typeof that === 'object'
+,methods . is_asks_ids :{     : asks_ids:{  place  place { latLng :{ lng : lng, lat : lat } , _place : _place , place_ : place_ } , current_ : current_ ,low_id:{ is_low_id   ,
+ objects :      : , reencrypted_asks_ids : reencrypted_asks_ , asks_track_ : asks_track_integer , 
+    _level_  asks_level_integer , asks_letter_ :   asks_letter_integer    } ,  
+, asks _ids_  : asks_ids . prototype.isPrototypeOf ( that )
+, eight_element : that.childElementCount =         } , .
+ ;{ Number   isInteger   that     , methods.is_asks_level_integer:{
+positive_integer : prototypeof_asks_ids
+, over_minus_one : . ()
+, under_eleven :    >= that ,        (that)   } () ,
 , .. ,   childElementCount 
 , methods.is_at_integer :{ 
- '="'}(''
-, positive_integer: Number . isInteger( that )
-, under_crypteds_integer : that >=  
-, over_minus_one : is over minus      
-, that } , 
  
-, methods.is_binary_buffer:{
- string:    typeof that === 'string' 
-, string_of_one_and_o :   > that
-     ( for ( that_ = 0; that_   that . length   that_ ;that_++ ) {
- for (   ; that[that_ ] = 0 ;    ) { 
+, positive_integer: Number . isInteger( that )
+, under_crypteds_integer :  >=  that
+, over_minus_one : is over minus      
+, that } , '="'}('' :
+       typeof that === ''
+,methods .is_binary_buffer:{
+ string:       string 
+, string_of_one_and_o :    that
+     ( for ( that_ = 0; that_   that . length   >that_ ;that_++ ) {
+ for (   ; that[that_ ] = 0 ;  _ that_  ) { 
 
  _that_ =    ; 
-    _that_
+    
  }_that_ = * that [ that_ ] ;      _that_; } =     ); 
     = 
 , 
@@ -95,21 +95,21 @@ jshint_:   (    ,   ,
   instanceOf :prototype  ,isInstanceOf ( that>  } ""'}
  {=, : constructor 
 '
+1
 
-,.
 , methods.is_instance_of_dbs:{
-1( )   ,  :  _object
-,  ,  ''  _  : dbs . prototype   .isPrototypeOf( that )
+,  ,.1  :  _object
+ ,  _  : dbs . prototype .isPrototypeOf( that )
 ,:that instance that,  
-           , methods.is_material_characteristics:{
-. ,() "" =, =}''(1,:that,} .''
+       ()    , methods.is_material_characteristics:{
+. ,() "" '' =, =}''(1,:that,} .''
 , methods. is_mean_ask_ids:{
-,       ,1  ,:{   :   >1 }
- of_
+,  ()   ,  ,  ,:of_{   :   >1 }
+ 
 , methods. is_mean_ask_integer:{
 , integer         . isInteger ( that ) ,      :  that >  1  }
 ,,methods.is_needed_integer: { 
- . ();       .isInteger :     ,     > 1 } ;
+ .    ;   isInteger    . :     ,     > 1 } ;
 , methods.is_place: {   ,)  .
   ()    . isPrototypeOf ( that )  ,   : childElementCount     , ;, }
 methods,   methods  ,  ,    )
@@ -140,21 +140,21 @@ formats = {
 
  ledgers :{ 
 
- 
- 
+ {
+ crypteds
 wallets_ledger :{ 
- instance_of_checkers_used_guide_the_keys_for_the_ids 
- wallets  wallets_id   ids__  wallets_id : id is asks _ids , { 
-crypteds ids instance_of_wallets_id _   _ has _ checkers_id__ 
-_ids        at_ at_:{ is_at_integer :{ _of_ :{ is_reencrypted_integer :{ reencrypted_of_ :{ is_needed_integer :{ needed_of_ :{ is_crypteds_integer )  : {used: {}} :{:
+  of_checkers_used_guide_the_keys_for_the_ids 
+ wallets  wallets_  ids__ :  _wallets_id  id is asks _ids ,  
+{ ids instance_of_wallets_ id_instance_   _ checkers_id__ 
+__ ( _  at_   at_:{ is_at_integer :{ _of_ :{ is_reencrypted_integer :{ reencrypted_of_ :{ is_needed_integer :{ needed_of_ :{ is_crypteds_integer )  : {used: {}} :{:
 crypteds:{ 
   cryptos_used : { 
-   to_crypted : { cryptos_used_ids__    is_cryptos_used_id , crypted__ : is_binary_buffer } 
+   to_crypted :{ cryptos_used_ids__    is_cryptos_used_id , crypted__ : is_binary_buffer } 
    to_crypted_minus_:{ is_crypted_minus_integer :{ cryptos_used_ids__ : is_cryptos_used_  id ,   _crypted__ :     _ used _ ids } }}} } ,
-     that    
- {   decrypted__ : is_binary_buffer , 
- asks_keys_ :{ is_sending_backs_keys :{ cryptos
-,  (__   reencrypted__: { reencrypted_cryptos_used__   is_reencrypted_cryptos_used 
+ids ,   id cryptos 
+    decrypted__ : is_binary_buffer   , 
+ asks_keys_ :{ is_sending_backs_keys :{ 
+     reencrypted__: { reencrypted_cryptos_used__   is_reencrypted_cryptos_used 
   keys_for_the_crypted_not_the_reencrypted :{ low_id_ : is_low_id , random_id_ : is_random_id ,
  keys_for_the_crypted_not_the_reencrypted__ : is_binary_buffer } 
       
